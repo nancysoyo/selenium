@@ -1,112 +1,118 @@
-# Final Video Brief — FuturIQ
+# Final Content Brief — @ma.milann / Braise Beauty
 
-Second-pass review of `outputs/revenue-agent-demo.md`, run by offer-architect (positioning/offer/mechanism) and conversion-system-builder (lead magnet/CTA/sales path/pacing), coordinated into a tighter final brief.
+Second-pass editorial review of `outputs/revenue-agent-demo.md`, run by offer-architect (positioning/offer/mechanism) and conversion-system-builder (demand-signal assets/CTA/sales path/rhythm), coordinated into a tighter final brief.
+
+**Methodology (unchanged from the first pass, binding here too):** every claim is labeled **(Evidence — brief, line X)**, **(Evidence — revenue-agent-demo.md, section)**, or **(Inference)** with reasoning shown. No web research, no invented performance data. This document supersedes the previous version of this file, which reviewed an unrelated, web-researched "FuturIQ" AI-agent-video topic with no basis in `business-brief.md` — that content is fully replaced. This is a content-creator brief for Susu's real business, not a SaaS/course funnel: no dollar-figure tiers, "workshop," "sprint," or "strategist" language appears anywhere below, because none of that exists in the brief.
 
 ---
 
-## Scorecard
+## Editorial Scorecard
 
-| # | Criterion | Score | Verdict |
+| # | Criterion | Before → After | Verdict |
 |---|---|---|---|
-| 1 | Specificity of audience | 3/5 → **5/5** | "Coaches, consultants, and service-based creators" bundled three buyer types with different sales cycles into one line. Narrowed to a single, verifiable state: people whose content is already pulling in DMs and "how do I work with you" comments, but who have no offer funnel actually catching that attention. |
-| 2 | Urgency of pain | 2/5 → **4/5** | Original pain was chronic dissatisfaction with no reason today matters. Rewritten pain is current and specific: attention is arriving right now — in DMs, in comments — and leaking, because the positioning, offer, and lead magnet were never built to fit each other. |
-| 3 | Believability of the promise | 2/5 → **4/5** | The unscoped "$15K strategist replacement in one afternoon" claim outran what the video proves on screen. Rescoped to what's actually demonstrated: five outputs guaranteed to fit each other because each one is gated on the last, not five separate AI drafts stitched together after the fact. |
-| 4 | Strength of unique mechanism | 4/5 | The Revenue Dependency Chain is a real, demonstrable mechanism — hard-gated validation between agents, with a visible reject/refine moment as the on-camera proof. Left as-is. |
-| 5 | Lead magnet pull | 5/5 → renamed for consistency | Original name ("Revenue Agent System Template (Free Build)") read like a software release rather than the same mechanism named twice. Renamed and rewritten to use the exact "gates" and "dependency chain" language the video just proved on screen. |
-| 6 | Natural sales path | 4/5 | Already sound: the free lead magnet delivers the actual "aha" before any pitch exists. Tightened so "gates opened up" is the same phrase used in the video, the emails, and the workshop pitch — no drift in how the paid tier is described. |
-| 7 | Under-15-minute video viability | 3/5 → **5/5** | Two problems: an early "preview all 5 outputs" beat either forced placeholder text on screen (against the doc's own rule) or duplicated the real payoff later; and three objections were crammed into 60 seconds while the CTA — the actual money beat — got the least time in the video. Fixed both; runtime unchanged at 14:00. |
+| 1 | Specificity of audience | 2/5 → **4/5** | The positioning line's audience clause was quoted straight from the brief's core promise but, on its own, read as generic lifestyle-account copy. The real differentiator ("documenting, not performing") was a trailing afterthought. Rebuilt so the differentiator is the sentence's hinge, not a footnote. Capped below 5/5 because the brief itself scopes the audience broadly — that's a brief-scoping fact, not a copy defect. |
+| 2 | Believability of the promise | 3/5 → **4/5** | "Elevate your life" was broad and unfalsifiable on its own. Tightened to anchor "believe bigger" explicitly to what's actually shown on screen — the real Braise Beauty build and her real 9–5/single-motherhood life. Capped below 5/5 because the brief has zero performance data anywhere to confirm the promise converts to anything measurable. |
+| 3 | Strength of unique mechanism | 2/5 → **4/5** | "The Build Log," as first named, implied one repeatable format — directly contradicting the first pass's own Content Strategy, which deliberately uses five *different* angles across the week so it never reads as one repeated promo lane. Rescoped from a uniform format to a consistent underlying lens (the systems mindset) applied differently per pillar. Contradiction resolved, not glossed over. |
+| 4 | Honest scoping of the offer | 4/5 → **5/5** | The offer's body text was already disciplined ("witness the build," not "buy"), but its own header said "demand-building" — a real mismatch, not fatal, but real. Header retitled to "pre-transactional witness stage" so header and body finally agree. |
+| 5 | Demand-signal clarity | 2/5 → **4/5** | The first pass mixed two live, authorized mechanisms with one explicitly-not-authorized proposal under a shared heading — a skimming reader couldn't tell what was actually active. The unauthorized item is cut from the system entirely (see below). Capped below 5/5 because the brief supports no true lead magnet — no email list, no downloadable asset exists to build one around. |
+| 6 | CTA specificity / voice fit | 3/5 → **4/5** | Already constraint-compliant, but structurally generic — "honest confession, then a soft pivot to the link" is a shape shared by most reflective-affiliate creators. Retightened to root the line in the brief's own "review" framing and the engineer's-systems-mindset identity, so it reads as a weekly check-in, not a favorites roundup. |
+| 7 | Follow-up rhythm presentation | 2/5 → **4/5** | The first pass's own Friction Check had already flagged that "five Sundays" could misread as a finite campaign rather than an ongoing rhythm — a flag it raised but didn't resolve in the copy itself. Now resolved: explicit "this continues indefinitely, weeks 6+ repeat the same pattern" framing added directly around the table. |
+| 8 | Sales path honesty | 4/5 → **5/5** | Already disciplined — correctly stated Braise Beauty doesn't convert to a purchase because nothing exists to purchase yet, and the paid guide stayed excluded throughout. Re-verified line by line against every dollar-tier/workshop/sprint term and confirmed none had leaked in; the absence is now stated outright instead of left implicit. |
 
----
-
-## Final Recommended Title
-
-**"If You Want AI To Actually Make You Money, Build This First"**
-
-Still the strongest title — audience-agnostic by design, leads with outcome over tool, and pre-empts "I already tried AI and got nothing." It doesn't need to name the audience to work, so it carries over unchanged even though the positioning underneath it is now sharper.
-
-**Cut from the backups:** *"The AI Sequence That Replaces A $15K Strategist"* and the thumbnail text *"$15K → Free."* Both carry the same unscoped comparison that was deliberately removed from Positioning for believability reasons — nothing on screen substantiates a $15K-strategist-equivalent result. Keeping either live risks the creator ad-libbing the exact overclaim this pass just cut.
+**Overall read:** the first pass was not sloppy — nothing scored below 2/5 — but it left specific, real soft spots: a positioning line that led with brief-generic language instead of its own differentiator, a Core Offer header that oversold relative to its own body, a named mechanism that quietly contradicted the pipeline's own design logic, an unauthorized proposal sitting inside an otherwise-clean asset list, and a presentation problem (finite-reading rhythm) the first pass had already diagnosed but not yet fixed. All five are resolved below without inventing anything the brief doesn't support.
 
 ---
 
 ## Positioning
 
-I help coaches and consultants who already have real attention on their content — DMs, comments, people asking how to work with them — but no offer funnel actually catching it, stop stitching together disconnected AI outputs (a positioning line that doesn't match the offer, a lead magnet that doesn't match either) and instead build one dependency-constrained agent chain: five agents that each refuse to hand off their output until it's specific enough for the next agent to build on, turning one business idea into a positioning statement, an offer, a content angle, a lead magnet, and a follow-up sequence that were all built to fit each other — in one sitting, without a strategist retainer or another three months of prompt tinkering.
+> "I help ambitious women elevate their style and their life — because when you look good, you believe bigger — and I prove it by documenting, not performing: the real, in-progress build of Braise Beauty, and a life I'm engineering on purpose, 9–5 and single motherhood included."
 
-## Why This Topic Works Now
+The opening clause and "when you look good, you believe bigger" are retained near-verbatim from the brief's own core promise **(Evidence — brief, line 10)** — not invented, not softened. "Documenting, not performing" is now the structural hinge of the sentence, not a trailing clause. "9–5 and single motherhood included" replaces the vague "an engineered life" with the two concrete, brief-named facts of her actual life **(Evidence — brief, line 4)** — this is what keeps the line specific to *her*, not swappable into another creator's bio. It deliberately avoids "burned out," "escape," or "hustle," honoring the narrative bans **(Evidence — brief, lines 29–31)**, and carries no discount/haul tone **(Evidence — brief, line 34)**. This is strategic/internal positioning language, not a caption — whether any fragment is ever said on camera is a separate decision.
 
-- **Willingness to pay: 5/5** — tied directly to positioning, offers, and leads, not abstract productivity.
-- **Credibility: 5/5** — provable live, on camera, in real time. The format is proof, not a claim.
-- **Business fit: 5/5** — the video's artifact *is* the product being sold.
-- **The audience:** not AI-curious beginners. They're already getting inbound interest and already have AI-generated positioning, offer, or lead-magnet drafts sitting in a doc somewhere — the problem isn't that AI hasn't helped, it's that nothing it produced was built to fit together.
-- **Why now:** the pain isn't hypothetical or future-facing — it's whatever DM or comment came in this week that never turned into a client, because there was nowhere consistent to send it. Every day without a funnel is attention arriving and leaking, not a slow-burn productivity gap.
+## Why This Works Now
+
+*(Inference throughout, scoped strictly to what the brief evidences — no market, trend, or seasonal claim is made, because the brief supplies none.)*
+
+- Braise Beauty is at founding stage right now **(Evidence — brief, line 21)**. Founding-stage material — testing, undecided details, visible uncertainty — is not repeatable content once the product ships. That is a fact about the *content material's* timing, not a manufactured buyer-urgency claim — the distinction matters, because the second would risk the hard-sell tone the brief explicitly forbids **(Evidence — brief, line 41)**.
+- The affiliate line is already running **(Evidence — brief, line 21)**, so "why now" here is not "start monetizing," it's "tighten what's already live" before adding anything new — staying inside the four existing touchpoints rather than expanding surface area.
+- No external deadline, launch date, seasonal hook, or market-timing signal exists anywhere in the brief's 42 lines. "Why now" is therefore scoped only to founding-stage non-repeatability — it does **not** claim revenue urgency, since the brief provides no willingness-to-pay evidence (scored 2/5 in Market Signal) to support that claim.
 
 ## Core Offer
 
-**The Revenue Agent System** — a five-agent build chain (Positioning → Offer Architect → Content Angle → Lead Magnet → Follow-Up Sequence), each agent hard-gated to reject any input from the agent before it that isn't specific enough to build on — so the five outputs are guaranteed to fit each other instead of reading like five separate AI drafts.
+Two live, parallel monetization surfaces — not sequential, not oversold:
 
-- **Free tier:** the exact template, self-run, gates included.
-- **Paid tier ($197–497 workshop):** the same chain run live on the buyer's own business, with the validation gates opened up so they can see *why* their input keeps getting rejected and fix it themselves — the one thing the free template can't teach on its own.
-- **Done-with-you tier ($3K–10K Sprint):** the chain extended past these five agents into the buyer's actual funnel — pricing, sales page, ad sequence — with a strategist in the loop.
+1. **Affiliate income (active now)** — running today in the Tue outfit Reel / Wed styling carousel / Sat outfit-lifestyle Reel **(Evidence — brief, line 21)**. This optimizes existing real estate; it does not expand it.
+2. **Braise Beauty founding-stage documentation (pre-transactional witness stage)** — retitled from the first pass's "demand-building," which implied an active, directional mechanism that doesn't exist. Delivered via the BTS pillar **(Evidence — brief, lines 18, 21)**. No purchase, preorder, waitlist, or CTA mechanism exists anywhere in the brief or in the conversion system built around it. The offer at this stage is literally **witness the build** — nothing is funneled toward a sale.
 
-**Value Ladder:** Free video (watch the chain reject and refine a real output, live) → free lead magnet (the template, self-run) → $197–497 workshop (run the chain on your own business with the gates explained) → $3K–10K done-with-you AI Systems Sprint.
+**Excluded, still:** the paid guide/capsule system — explicitly gated behind proof that doesn't exist in the brief **(Evidence — brief, line 21)**. Correctly held throughout both passes; re-verified here, not re-litigated. This remains the single cleanest piece of scoping discipline in the whole document.
 
-## The Unique Mechanism
+## Unique Mechanism (rescoped)
 
-**The Revenue Dependency Chain.** No agent is allowed to freelance — each one only works with what the previous agent already proved was specific enough to pass. The proof moment on camera isn't the generation, it's watching the system catch and reject a generic, vague output and force a specific one. That single beat is what separates this from "ChatGPT with extra steps."
+*(Inference — proposed internal name, does not appear in the brief; internal strategic scaffolding only, never on-camera or caption language.)*
 
-## 14-Minute Screen Recording Structure
+**What it is not:** a single repeatable content format applied identically across all five weekly touchpoints. The Content Strategy section explicitly designs the five touchpoints to use five *different* mechanisms — function-first, decision-logic, life-evidence, rotation-recap, founding-stage-honesty — specifically so the week never reads as one repeated promo lane **(Evidence — brief, line 18)**. A single overarching "Build Log" format would have contradicted that design.
 
-The early "preview the destination" beat is cut down to a diagram-only tease so the 5-output reveal only lands once, at the real payoff, with zero risk of placeholder text on screen. Objection handling is trimmed from three objections to the two that matter most — cutting "AI output is generic," since the reject/refine beat already answers it on screen. The reclaimed time goes to the CTA, which now runs over two minutes instead of one: it's the conversion moment, it shouldn't be the most rushed beat in the video.
+**What it is, tightened:** a consistent underlying *lens* — the engineer's systems mindset **(Evidence — brief, line 24)** — applied to whatever material is being documented that week: literal build-logging in the Documentary and Braise Beauty pillars, where something is genuinely being built in a trackable, dated sense **(Evidence — brief, lines 12, 18, 21)**; decision-logic, not build-logging, in the Fashion pillar; life-evidence, not build-logging, on Saturday. Credibility comes from the *consistency of the lens* across different material, not from reusing one format five times — which the brief's own pillar design rules out.
 
-| Time | Beat | On screen |
+---
+
+## Demand-Signal Assets (tightened, replaces "Lead Magnet")
+
+**Renamed on purpose.** "Lead magnet" implies an email list, downloadable asset, or capture mechanism — none exist anywhere in the brief's 42 lines, and inventing one would recreate the exact SaaS-funnel mismatch this pipeline explicitly rules out. What actually exists are two passive demand signals, both living inside pillars that already run, requiring no new infrastructure:
+
+1. **Affiliate demand signal** *(internal name only, never spoken on camera)* — the Sunday review recap, reusing the brief's own sanctioned phrase "what's in rotation" **(Evidence — brief, line 34)**, treated as a cumulative, recurring artifact rather than a one-off caption. Continuity, not novelty, is the draw: "pieces that survived more than one wear, reviewed honestly, once a week."
+2. **Braise Beauty demand signal** *(internal name only)* — the brief's own already-stated success metric, saves and shares over likes **(Evidence — brief, line 39)**, used as the only demand-capture mechanism for Braise Beauty content. It adds nothing to the BTS posts — no CTA, no "buy," no "join a list." The signal is *read*, not solicited, and should never be described as more than a listening mechanism.
+
+### Stories-Highlight Extension — Cut, Not Carried
+
+The first pass proposed an optional Stories highlight archiving BTS moments with an occasional interest-sticker, and flagged it itself as "the single riskiest item in this document" and explicitly not authorized. This pass removes it from the active system entirely rather than carrying it forward as "optional" — keeping an unauthorized item inside a document merged into a *final* brief risks a skimming reader mistaking it for a live option. It's preserved here, once, in past tense, so the reasoning isn't lost: it sits close to the BTS pillar's no-CTA rule even though technically in Stories, and Braise Beauty has no actual product yet to responsibly point an interest-check at. If Susu wants to revisit this once Braise Beauty ships a real product, it needs its own sign-off and its own pass — it is not reintroduced by implication anywhere in this document.
+
+## In-Slot CTA
+
+> "This one's mostly for my own record — what actually got worn again this week. If you want to see what's still in rotation, it's linked in my bio."
+
+The prior version ("Saving this one for myself, mostly...") was already constraint-compliant, but its shape — honest confession, then a soft pivot to the link — is a structure shared by most reflective-affiliate creators. This version anchors specifically to "record" and "worn again," tying directly to the brief's own Sunday "rest/**review**" language **(Evidence — brief, line 40)** and the engineer's-systems-mindset identity **(Evidence — brief, line 24)** — a review of what held up, not a favorites roundup. Verified against every constraint: no haul/discount language **(line 34)**; exactly one link, in bio **(line 35)**; save-language not like-language, echoing the saves-over-likes metric **(line 39)** without literally instructing anyone to save; no urgency, no countdown; no burnout/escape or generic-AI phrasing **(lines 27–31, 41)**.
+
+No CTA changes for Tue/Wed/Sat (single "linked in bio" mention, unchanged) or Braise Beauty BTS (**no CTA at all**, re-verified not reopened).
+
+## Follow-Up Rhythm
+
+**This is not a five-week campaign with a start and an end.** It is the same Sunday review slot, indefinitely, every week, for as long as the account runs. The table below shows five *illustrative* weeks to demonstrate the pattern — how the same slot deepens the same "in rotation" thread without escalating into a bigger ask. Weeks 6, 7, and every week after follow the identical pattern: one beat of reflection, one honest continuity-or-correction detail, the same single-link close. There is no pivot, no "campaign wrap," no expanded CTA — escalation would contradict the brief's own 90-day no-judgment rule and its ban on manufactured urgency.
+
+| Week | Hook *(Inference)* | Core idea |
 |---|---|---|
-| 0:00–0:20 | Hook — money mechanism, not the tool | Face to camera only |
-| 0:20–1:10 | Reframe: it's a sequencing problem, not a tools problem | Face to camera |
-| 1:10–1:40 | Quick tease — "one idea in, five outputs out, built to fit each other" | Animated Dependency Chain diagram only, no real content shown yet |
-| 1:40–2:00 | Setup, compressed — one idea stated, nothing else | Sped-up cut, no terminal lingering |
-| 2:00–5:00 | **Agent 1 (Positioning) built live, in full** — visible reject-then-refine moment | Full-screen zoom on generation; hard zoom + red overlay on the rejected phrase; rejected vs. refined side by side |
-| 5:00–5:50 | Agent 2 (Offer Architect) — reveal, visibly consuming Agent 1's output | Transition arrow "Agent 1 → Agent 2"; cursor-highlight the phrase pulled from Agent 1 |
-| 5:50–6:40 | Agent 3 (Content Angle) — reveal, same dependency pattern | Same pattern |
-| 6:40–7:30 | Agent 4 (Lead Magnet) — reveal, same dependency pattern | Same pattern |
-| 7:30–8:20 | Agent 5 (Follow-Up Sequence) — reveal, same dependency pattern | Same pattern |
-| 8:20–10:00 | Before/after payoff — the only full 5-output reveal in the video | Split-screen hold: one-line idea vs. all 5 finished artifacts, zero placeholder text |
-| 10:00–10:50 | Objections answered: "I already tried AI tools" + "isn't this just ChatGPT" | Face to camera, no screen |
-| 10:50–11:50 | The offer as the obvious next step: free template → workshop → Sprint | Quick zoom on template contents |
-| 11:50–14:00 | CTA and close, unhurried | Face to camera, end screen with link held through the full CTA |
+| 1 | "What actually stayed in rotation this week." | Establish the format — reflection first, rotation second. |
+| 2 | "Same blazer, different week — still reaching for it." | Continuity as proof, not novelty. |
+| 3 | "What I almost didn't keep." | Honest self-correction — resists hype. |
+| 4 | "Slower week, same rotation." | Protects against burnout/hustle framing the brief forbids **(Evidence — brief, lines 27–31)**. |
+| 5 | "One month in — still the same short list." | Names consistency of *behavior* (a short list that hasn't changed), not consistency of *results* — see change note below. |
+| 6+ | *(not written — same pattern repeats)* | The rhythm continues indefinitely; no new hook type introduced, no CTA escalates. |
 
-## Lead Magnet
+**Change note — Week 5:** the original hook, "one month of what's actually working," walked close to a results statement. Replaced with a line that describes an observable, static fact (the short list hasn't changed) with zero claim about why or whether it "worked" — keeping it inside the brief's 90-day rule with no residual ambiguity **(Evidence — brief, line 39)**.
 
-**The Revenue Dependency Chain — Self-Run Template.** The exact five-agent chain from the video (Positioning → Offer Architect → Content Angle → Lead Magnet → Follow-Up Sequence), pre-wired with the same hard gates that just rejected a real output on screen — nothing to configure, nothing to prompt-engineer, copy your business in and run it. Contents: the 5 agent files with the validation gates built in, and a one-page "what a gate is actually checking for" reference, so a rejection reads as useful information instead of a black box. No setup video or onboarding sequence, because there's nothing to set up. Wanted right now because the viewer just watched someone else's answer get rejected as not specific enough — the template is the only way to find out, today, whether their own answer would have survived Agent 1.
+## Sales Path
 
-## In-Video CTA
+- **Affiliate (real, active today):** Tue/Wed/Sat content builds context → Sunday recap converges it with the single sanctioned link → click → commission. Nothing new required to run this.
+- **Braise Beauty (pre-transactional witness stage):** BTS content with no CTA → trust compounds through honest founding-stage documentation → the only signal returned is saves/shares/DMs → this does **not** convert to a purchase today because there is nothing to purchase yet. The path terminates at "founding-stage supporter," not "customer" — that gap is not filled with an invented checkout flow, waitlist, or preorder mechanism.
+- **Paid guide, if ever activated:** explicitly out of scope. The save/share signal generated above could someday serve as the "proven demand" the brief gates it behind, but using it that way is a future decision this document does not claim to already deliver.
 
-> "The template you just watched — five agents, same gates, same reject-and-refine chain — is linked below. Run your own positioning through Agent 1 first. If it gets rejected, you'll know exactly why. If it passes, you'll have a positioning line built the same way this one just was."
+**Explicit re-verification:** this path contains no dollar figures, no tiers, no "workshop," "sprint," "strategist," or comparable packaged-offer language anywhere — checked line by line against all 42 lines of the brief and found absent throughout.
 
-## 5-Email Follow-Up Sequence
+---
 
-1. **Delivery** — *"Here's the chain. Start with Agent 1."* Deliver the template; set the expectation that a rejection on the first run is the gate working, not a bug. CTA: run Agent 1 today, reply with what it rejected.
-2. **Reframe the objection** — *"Why every AI tool you've tried gave you the same generic draft."* Names "I already tried AI for this" directly and reframes it: a single ungated prompt has nothing stopping it from handing back something vague — that's not a tool problem, it's a missing-gate problem. CTA: template link again.
-3. **Show the chain working** — *"What Agent 2 does when Agent 1 hands it something weak."* A concrete before/after: a vague positioning line reaching Agent 2 versus a specific one, and what changes downstream when the input is actually built to be handed off. CTA: reply with which agent you're on, get pointed to the next one.
-4. **Name the ceiling honestly** — *"What the free chain won't do for you."* States plainly: the self-run template takes you through all 5 agents on your own business — but when a gate rejects your input and you're not sure why, you're working it out alone. That's the one thing the free chain can't do. CTA: workshop link, for anyone a gate has stopped.
-5. **Direct invite** — *"Run it with the gates open."* Low-pressure invite for anyone who's already felt at least one rejection: the workshop is the same five agents, run live on your own business, with the gates opened up so you can see exactly why something got kicked back and fix it in the room. CTA: see workshop details / grab a spot.
+## What Must Be True On Screen/In Caption To Be Credible
 
-**Sales path:** the lead magnet is the actual conversion event — the moment a viewer's own input gets rejected by Agent 1, they've personally felt the core claim of the offer, which sells harder than anything written afterward. The follow-up sequence keeps them moving through the remaining four agents, then names the free system's one honest limit: gates reject, but don't explain themselves. The workshop is positioned as exactly that explanation, run live on the buyer's own business — which is also what qualifies genuinely warm buyers for the $3K–10K Sprint. No step in the path asks for a purchase before the viewer has already had the mechanism work on their own material at least once.
+- Her face as the visual background at all times — never plain slides or generic text carousels **(Evidence — brief, line 36)**.
+- Centred, thin serif text only, thin divider lines, no border frames **(Evidence — brief, line 37)**.
+- Real BTS material for Braise Beauty — formulation, naming, packaging decisions as they actually happen, not polished ad-style shots **(Evidence — brief, line 18)**.
+- No results claimed or implied before 90 days; saves and shares are the stated signal, not likes **(Evidence — brief, line 39)**.
+- Exactly one link mention per caption, always in bio/stories, never "use my code" energy **(Evidence — brief, line 35)**.
 
-## What Must Be Shown On Screen To Be Credible
+## What Was Cut Or Changed In This Pass, And Why
 
-- Agent 1 built live and in full — not summarized, not "here's one I made earlier."
-- A real, visible reject-then-refine moment on a generic output.
-- The dependency chain shown visually — one agent's exact output referenced or pasted as the next agent's input, not just claimed in narration.
-- The before/after: the one-line starting idea next to all five finished artifacts, zero placeholder text anywhere, shown once, at the real payoff.
-- Real, specific content in the offer formula on screen — never a bracket like "[niche]" left unfilled.
-
-## What Was Cut Because It Felt Generic Or Outran The Proof
-
-- The backup title *"The AI Sequence That Replaces A $15K Strategist"* and thumbnail text *"$15K → Free"* — both reintroduce the unscoped comparison cut from Positioning for believability.
-- The standalone "preview all 5 outputs" beat at 1:20–2:10 — it either forced placeholder text on screen or duplicated the real payoff; replaced with a 30-second diagram-only tease.
-- The third objection, "AI output is generic" — redundant once the reject/refine beat already answers it live on screen; cut to give the CTA more room.
-- "$15K strategist" and "full revenue architecture ... in one afternoon" as framing anywhere in Positioning or the Core Offer — rescoped to describe exactly what the video proves (five outputs built to fit each other), not what the full offer implies.
-- The original lead magnet name, "Revenue Agent System Template (Free Build)" — read like a software release; renamed around the mechanism itself so the free asset and the video's proof are named the same thing.
-- Any framing of the agent team as a novelty ("look what Claude Code can do") instead of anchoring every step to a revenue decision.
-- Lengthy setup/installation/prompting mechanics on screen — compressed to 20 seconds; the audience needs judgment shown, not configuration.
-- Using "generic" as a description of the *viewer's* input anywhere in the follow-up emails — it's the gate's language, not a shame trigger; email 4 keeps the ceiling framed around what a gate does, not the viewer's competence.
+- **The Stories-highlight/sticker extension** — removed entirely from the active system; it was never authorized, and a "final" brief shouldn't carry a flagged-as-risky item that reads as optional.
+- **"Demand-building" as the Braise Beauty offer header** — replaced with "pre-transactional witness stage" so the header stops overselling relative to its own correctly-scoped body text.
+- **"The Build Log" as a uniform content format** — rescoped from one repeatable format to a consistent underlying lens, resolving its contradiction with the content strategy's own five-distinct-angles design. It remains internal scaffolding only, never spoken on camera.
+- **The original Sunday CTA's generic reflective-affiliate shape** — retightened to anchor specifically in the brief's own "review" language and systems-mindset identity, rather than a tone any creator's account could use.
+- **The "five Sundays" table's unresolved finite-campaign framing** — fixed with explicit "this is an ongoing, indefinite rhythm" language before and after the table, and the Week 5 hook rewritten to remove results-adjacent language.
+- **Any dollar-figure tier, "workshop," "sprint," or "strategist" language** — confirmed absent throughout and deliberately kept out; that vocabulary belongs to the unrelated, already-superseded AI-agent-video project this file previously (and incorrectly) reviewed.
