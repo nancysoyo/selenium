@@ -1,111 +1,134 @@
-# Revenue Agent Demo — FuturIQ
+# Revenue Agent Demo — @ma.milann / Braise Beauty
 
-Coordinator output combining: market-signal-researcher → offer-architect → content-angle-strategist → conversion-system-builder, run via the named project subagents per `runbooks/revenue-agent-runbook.md`.
+Coordinator output combining: market-signal-researcher → offer-architect → content-angle-strategist → conversion-system-builder, run per `runbooks/revenue-agent-runbook.md`.
 
-This is a full pipeline rerun, not a light edit of the prior draft. The market-signal-researcher pass corrected two assumptions the earlier version carried on inference rather than evidence — Urgency and Searchability — and every downstream phase was built from that corrected signal, not from the old draft.
+**Methodology (binding for this whole document):** every claim is labeled **(Evidence — brief, line X)**, meaning it is stated or directly quoted in `business-brief.md`, or **(Inference)**, meaning it is reasoning, extrapolation, or proposed content beyond what the brief states. No web research, competitor data, follower-growth benchmarks, engagement figures, or industry search-volume claims were used anywhere in this pipeline — the brief is the only evidentiary source. Where a category has no supporting brief data, that gap is stated plainly rather than filled with an invented number.
+
+This replaces an earlier pipeline run in this file that analyzed an unrelated, web-researched topic (an AI-agent demo video for coaches/consultants) with no basis in `business-brief.md`. That content has been fully superseded — this document is grounded in Susu's actual business: @ma.milann (personal brand, Instagram/TikTok, 3,560 followers) and Braise Beauty (her product brand, founding stage). **(Evidence — brief, lines 3–4)**
 
 ---
 
 ## Executive Summary
 
-The concept sits across two demand pools that don't currently overlap: technical/builder demand (active 2026 content on Claude Code subagents, searched by developers) and outcome/business demand (a saturated "build a business with AI" cluster, plus a thin but emerging "Claude Code for coaches/consultants" pairing). Nobody is searching for the specific mechanism here — a dependency-gated agent chain that visibly rejects vague output — so this is a **clickthrough-driven concept, not a search-driven one**. Opportunity score: **25/35** (evidence-scored, down from an earlier inference-scored 29/35 — Urgency and Searchability were the gap). The single biggest risk is a buyer/clicker split: technical framing in the title or thumbnail pulls engineers who watch the mechanism for free and never buy. The single biggest asset is that AI-slop skepticism is real and current (public backlash against generic AI output), which this video answers structurally, on screen, rather than by asserting trust. Everything below is scoped to what's actually evidenced: the promise is **coherence** — five assets built to fit each other — not clients or revenue.
+Two revenue lines are already real and active, not hypothetical: affiliate income is already integrated into three existing weekly slots, and Braise Beauty is a founding-stage product line documented publicly through its own content pillar **(Evidence — brief, line 21)**. A third line — a paid guide/system — is explicitly gated by the brief itself behind "proven demand" from the other two and is treated throughout this document as **not active** **(Evidence — brief, line 21)**.
+
+The brief contains zero performance data — no follower-growth, engagement, conversion, sales, or waitlist figures anywhere in its 42 lines. Opportunity Score: **21/35**, and the two lowest-scored categories (willingness to pay, searchability) are low specifically because there is nothing in the brief to evidence them, not because the underlying business is weak. Everything downstream in this document is deliberately scoped to what the brief actually supports: optimizing four existing content touchpoints, not inventing new ones; documenting Braise Beauty's founding stage, not claiming proven demand for it; and building conversion mechanics only where the brief already authorizes them (the Sunday slot, and the brief's own save/share success metric).
 
 ## Market Signal
 
-**Demand pattern:** Technical/builder content on Claude Code subagents is active but pulls a non-buying audience. Outcome-level "build a business with AI" content is already saturated. The specific pairing — this mechanism, for this buyer — is thin in 2026, not crowded, which licenses a category-timing argument rather than personal urgency.
+**Demand pattern:**
+- Affiliate income is not a plan — it's running now, inside Tue outfit Reel / Wed styling carousel / Sat outfit-lifestyle Reel **(Evidence — brief, line 21)**. The mechanism needs optimization, not invention.
+- Braise Beauty is "founding stage," documented via its own BTS pillar, product line named (lip oil, liner, blush compact) **(Evidence — brief, lines 3–4, 18, 21)** — this is demand-*building*, not demand-*proven*: no sales, preorder, or waitlist data exists in the brief.
+- A paid guide/system is named but explicitly conditional — gated behind proof that doesn't yet exist **(Evidence — brief, line 21)**. **(Inference):** treating it as active right now would misrepresent the brief's own stated sequencing.
+- **(Inference):** at 3,560 followers **(Evidence — brief, line 4)**, the binding constraint on revenue is plausibly reach/conversion volume rather than content quality or positioning — but this cannot be verified since the brief gives no performance figures.
 
-**Audience psychology:** The buyer wants to believe their existing attention and expertise can convert without a strategist or more prompt-tinkering — they want a mechanism, not more tool exposure. They fear this is more AI content they've already burned time on, producing the same vague, interchangeable output. They secretly hope one system, run once, produces outputs that actually fit together, because their current stack (positioning from one AI session, an offer from another, a lead magnet from a third) visibly doesn't cohere.
+**Audience psychology** (derived from the brief's own narrative rules, which exist specifically to manage audience perception):
+- Wants permission to want more without dismissing what she already has — not an escape narrative. **(Evidence — brief, lines 27–28)**: "I love my 9–5 AND I'm building something more" / "I'm not escaping — I'm expanding."
+- **(Inference):** fears being characterized as struggling or overwhelmed — inferred from the explicit bans on burnout/escape framing **(Evidence — brief, lines 29–31)**.
+- Core hook, stated directly: "when you look good, you believe bigger" **(Evidence — brief, line 10)** — style as a lever for belief, not vanity.
+- **(Inference, weakest-basis claim in this brief):** audience may conflate this account with discount/bargain content — inferred only from the existence of a rule against haul/discount-code language **(Evidence — brief, line 34)**, not from any stated audience misconception.
 
-**Opportunity Score: 25/35** — Urgency 3/5 (chronic, not acute — evidence-light) · Willingness to pay 4/5 (inferred, treated as a hypothesis) · Searchability 2/5 (no search evidence; nearest volume is either technical or saturated) · Clickability 4/5 (the reject/refine beat is a strong hook once seen) · Credibility 5/5 (proof happens live, directly answers documented AI-slop skepticism) · Business fit 4/5 (the ladder shape itself is now common in adjacent content — only the mechanism differentiates) · Under-15-min viability 3/5 (execution-fragile — a single dead-air generation or unconvincing fast reveal breaks the credibility claim).
+**Opportunity Score: 21/35** (leans on Inference where the brief has no data — stated plainly, not smoothed over):
 
-**Named risks:** buyer/clicker mismatch (biggest risk — technical framing pulls the wrong audience), category fatigue (the AI-business-video shape is common), provenance skepticism (a reject/refine moment that looks too clean reads as staged, not proof — raises the execution bar rather than lowering the risk), and ladder sameness (free → workshop → DWY is now a recognizable pattern; the gate, not the ladder, has to carry the differentiation).
+| Category | Score | Basis |
+|---|---|---|
+| Urgency | 3/5 | (Inference) Braise Beauty is mid-launch, which is structurally timely, but no stated deadline exists. |
+| Willingness to pay | 2/5 | (Inference) No purchase intent, pricing, or preorder data anywhere in the brief. |
+| Searchability | 1/5 | (Inference) No data on discovery channel; scored low to avoid inflating an unverifiable category. |
+| Clickability | 3/5 | (Inference) The consistent visual system (face-as-background, serif text) plausibly aids recognition, but this is not a measured outcome. |
+| Credibility | 4/5 | (Evidence) Real, publicly documented product build + real personal narrative — a stronger structure than a claims-based pitch. |
+| Business fit | 4/5 | (Evidence) The two revenue lines are already mapped onto existing pillars, not bolted on. |
+| Under-15-min viability | 4/5 | (Inference) Each touchpoint is short-form by named format. |
+
+**Risks:**
+- Overclaiming unevidenced demand — Braise Beauty has zero sales/preorder data; any messaging implying proven demand would also collide with the brief's own 90-day no-judgment rule **(Evidence — brief, line 39)**.
+- Small-base honesty risk — at 3,560 followers, "your audience is asking for this" framing would read as the generic-AI-inflated language the brief explicitly forbids **(Evidence — brief, line 41)**.
+- Constraint collisions — one link max, no discount language, no separate affiliate day **(Evidence — brief, lines 34, 35, 40)** leaves very little weekly promotional surface area; do not try to widen it to "drive revenue faster."
+- Conflating the three revenue lines — the brief sequences them deliberately; the paid guide must stay excluded until the other two show proof.
 
 ## Offer Architecture
 
-**Audience call (explicit, not a silent default):** solo consultants, coaches, and service-based creators who already use AI tools in their own business — people who have already run their positioning through one AI session, their offer through another, and a lead magnet through a third, and have the disconnected drafts sitting in a doc right now. Explicitly *not* written for professional engineers chasing the subagent pattern for its own sake, and not written as if the audience has never touched AI before.
+**Positioning** — quoted near-verbatim from the brief's own core promise **(Evidence — brief, line 10)**: *"I help ambitious women elevate their style and their life — because when you look good, you believe bigger — not by performing an aesthetic, but by documenting the real build of Braise Beauty and an engineered life."*
 
-**Positioning:** I help solo consultants, coaches, and service-based creators who already use AI tools in their own business achieve one coherent set of go-to-market assets — a positioning statement, an offer, a content angle, a lead magnet, and a follow-up sequence that are provably built to fit each other — without hiring a strategist or re-running the same disconnected AI sessions that keep producing pieces that don't match, by building a dependency-gated five-agent chain where no agent is allowed to hand its output forward until it's specific enough for the next agent to build on.
+**Core Offer** — two live, parallel monetization surfaces (not sequential):
+1. **Affiliate income (active now)** — already running in the Tue/Wed/Sat slots **(Evidence — brief, line 21)**; this architecture optimizes existing real estate, it doesn't expand it.
+2. **Braise Beauty founding-stage demand-building (emerging, pre-transactional)** — delivered via the BTS pillar **(Evidence — brief, lines 18, 21)**. No sales mechanism exists yet, so the offer here is "witness the build," not "buy."
+Excluded: the paid guide/capsule system — explicitly gated behind proof that doesn't exist in the brief **(Evidence — brief, line 21)**.
 
-This positioning does not promise more clients or revenue. What's demonstrated — and what's claimed — is coherence.
+**Unique Mechanism — "The Build Log"** *(Inference — proposed name, not brief-stated)*: grounded in the pillar literally named "Building Her" and the central identity "a woman engineering her own life" **(Evidence — brief, lines 12, 18)**. Monetized content is never isolated in its own promo lane **(Evidence — brief, line 18)**; trust compounds through repetition of four fixed touchpoints rather than sales pressure; her professional systems mindset is the credibility engine, not beauty-influencer authority **(Evidence — brief, lines 4, 24)**.
 
-**Core Offer — The Dependency Gate Chain:** five agents (Positioning → Offer Architect → Content Angle → Lead Magnet → Follow-Up Sequence), each hard-rejecting input from the agent before it if it isn't specific enough to build on.
-- Free tier: the self-run chain, gates included, run on your own business.
-- Paid tier (workshop, hypothesis-priced $197–$397 — presale-validate before committing production spend): the same chain run live on the buyer's business, gate criteria exposed.
-- Premium tier (done-with-you sprint, hypothesis-priced $3K–$8K): the chain extended into the buyer's actual funnel — not built out or marketed until the workshop tier has real paying conversions.
+**Value Ladder:**
+1. Free — the five-pillar weekly content itself **(Evidence — brief, lines 17–18)**. The brief names no separate lead-magnet asset.
+2. Micro-conversion — bio/stories link, mentioned once at most **(Evidence — brief, line 35)**, folded into the existing Sunday slot **(Evidence — brief, line 40)**.
+3. Active monetizable rung — affiliate commission + Braise Beauty demand-building, running in parallel **(Evidence — brief, line 21)**.
+4. **Gated, not active** — a paid guide/capsule system, explicitly conditioned on proof that doesn't yet exist **(Evidence — brief, line 21)**. Excluded from every near-term plan below.
 
-**Unique Mechanism — The Dependency Gate:** not "multiple AI agents" (a commodity framing already covered by current subagent content) — the differentiator is that *rejection is visible and repeatable*. The proof isn't the generation step, it's the refusal step.
+**Proof requirements:** her face as the visual background at all times, never plain slides **(Evidence — brief, line 36)**; centred thin serif text, thin divider lines, no border frames **(Evidence — brief, line 37)**; real BTS material, not polished ad shots **(Evidence — brief, line 18)**; no results claimed before 90 days, saves/shares over likes **(Evidence — brief, line 39)**. Explicit gap, inherited from Market Signal: no sales, conversion, or waitlist figures exist anywhere in the brief — none are invented here.
 
-**Value Ladder:** Free video (watch the chain reject and refine a real input, live, unedited across that beat) → free lead magnet (self-run gated chain) → paid workshop (same chain, gates explained, run live on the buyer's business) → premium done-with-you sprint (gated on workshop demand actually materializing).
-
-**Proof requirements (in order of importance):**
-1. The reject/refine beat must read as unstaged — a genuine, unscripted input, the rejection reason shown as visible criteria (not just narrated), no jump cut across the beat, and ideally a second, smaller rejection later in the chain so it reads as consistent system behavior rather than a one-time bit.
-2. The dependency chain shown mechanically — one agent's real output pasted or referenced as the next agent's input, every time.
-3. The full five-artifact before/after shown once, with zero placeholder or bracket text.
-4. A specific, named business example on screen, not an abstract "your business."
-
-**Objection map:** "I already tried AI and got generic garbage" → reframed as an ungated single-shot prompting failure, shown live, not asserted. "This looks staged" → answered structurally (see proof requirements), not with a defensive line. "Isn't this just AI with extra steps?" (the clicker segment, not the buyer) → not over-addressed; framed around the business decision each gate checks, not the tool. "Does this get me clients or revenue?" → answered honestly: no guarantee, only that the five assets are built to fit each other — the single biggest overclaim risk given inference-scored urgency/WTP. "Why pay for the workshop if the free chain runs everything?" → the free chain rejects but doesn't teach the criteria; the workshop opens the gates. "Will this work for my specific business?" → requires a named example on screen, not an abstract demo.
+**Objection map:** "just another affiliate influencer" → answered by the haul-language ban and single-link rule **(Evidence — brief, lines 34, 35, 38)**. "Is Braise Beauty real or vaporware" → answered by real founding-stage BTS, not a launch trailer **(Evidence — brief, lines 4, 18, 21)**. "Is she overextended, given 9–5 and single motherhood" → pre-answered by the brief's own narrative rules **(Evidence — brief, lines 27–31)**, not by new claims. "Will it work for my skin tone" → the brief names this exact secondary audience **(Evidence — brief, line 7)**, requiring visual proof in BTS content. "Why now" → *(Inference)*: founding-stage documentation is a non-repeatable content window — framed as a timing fact, not manufactured scarcity.
 
 ## Content Strategy
 
-**Title:** *"If You Want Your AI Drafts To Actually Match, Build This First"* — names the one outcome the offer is honestly licensed to promise (coherence, not clients or revenue), contains zero tool/agent vocabulary, and targets the buyer's live symptom without giving the clicker-only engineer segment a reason to click.
+**Format note:** Susu's platforms are Instagram and TikTok, not YouTube **(Evidence — brief, line 6)**, and her content runs in fixed weekly slots, not standalone long-form video **(Evidence — brief, line 21)**. This plan is a weekly Reels/carousel angle plan for her four existing touchpoints plus the Braise Beauty pillar — no new slot is proposed anywhere in this document **(Evidence — brief, lines 18, 21, 40)**.
 
-**Backups:** Why Your AI Positioning, Offer, and Content Never Match · I Made AI Reject My Own Business Idea · Stop Running Your Offer Through Five Separate AI Chats · You're Not Behind On AI — You're Missing One Step · The One Thing Missing From Every AI Business Prompt
+All hook copy below is proposed, not brief-stated — labeled **(Inference)** as a set — and checked against every voice constraint in the brief (no haul/discount language, one link max, face always the background, centred serif text only, no results before 90 days, no burnout/escape framing, never generic-AI-sounding) **(Evidence — brief, lines 24, 27–31, 34–41)**.
 
-**Thumbnail text:** "AI Said No." / "It Rejected Me." / "Watch It Say No" / "AI Drafts Don't Match" / "One Missing Step" — none name the mechanism; all carry the curiosity/trust angle without pulling clicker-only traffic.
-
-**Hook (0:00–0:20):** "If you've ever run your positioning through ChatGPT, your offer through another chat, and your content ideas through a third — you already know the problem. None of it matches. It reads like three different people wrote it, because three different sessions did. I'm not going to give you another AI prompt. I'm going to show you the one rule that makes AI refuse to hand you something vague — live, on a real business, right now."
-
-**13:30-Minute Structure:**
-
-| Time | Beat | On screen |
+| Touchpoint | Angle | Representative hook *(Inference)* |
 |---|---|---|
-| 0:00–0:20 | Hook | Face to camera, no screen |
-| 0:20–1:00 | Reframe: the problem isn't that AI didn't help — nothing checked whether each answer was specific enough before the next one built on it | Face to camera |
-| 1:00–1:30 | Diagram tease — one idea in, five pieces out, each has to pass a check before the next touches it | Animated diagram only, no real content or placeholder text |
-| 1:30–1:50 | Setup, compressed — one real, specific business idea stated | Sped-up cut |
-| 1:50–2:30 | Piece 1 (Positioning) build starts — first real, unscripted attempt | Full-screen zoom, no cuts |
-| **2:30–4:30** | **THE REJECTION** — real time, no jump cut, rejection shown as visible criteria, then refined input passes. Budgeted two full minutes on purpose. | Hard zoom on the rejection rule; flagged phrase; hold on rejected output; real-time refine; hold on pass |
-| 4:30–5:30 | Revised Piece 1 confirmed passing; transition to Piece 2 | — |
-| 5:30–6:10 | Piece 2 (Offer) — reveal, visibly consuming Piece 1's output | Transition arrow; cursor-highlight of pulled phrase |
-| 6:10–6:50 | Piece 3 (Content Angle) — same pattern, plus a brief **second, smaller rejection** (20–30 sec) so the first doesn't read as a one-off | Same visual treatment, shorter |
-| 6:50–7:30 | Piece 4 (Lead Magnet) — reveal, same pattern | Same pattern |
-| 7:30–8:10 | Piece 5 (Follow-Up Sequence) — reveal, same pattern | Same pattern |
-| 8:10–9:40 | Before/after payoff — one-line idea vs. all five finished pieces. Only full reveal in the video | Split-screen hold, zero placeholder text |
-| 9:40–10:30 | Two objections answered: "I already tried AI and got generic garbage," "isn't this just AI with extra steps" | Face to camera, no screen |
-| 10:30–11:10 | The free offer as the obvious next step | Zoom on real template contents |
-| 11:10–13:30 | CTA, unhurried — trust/timing framed, no urgency, no revenue promise | Face to camera, end screen held through close |
+| **Tue — Outfit Reel** | The outfit as evidence of a decision-system, not a haul **(Evidence — brief, line 24)** | "What I put on when I need to think clearly." |
+| **Wed — Styling Carousel** | A documented styling decision tree, never a shop grid **(Evidence — brief, lines 36–37)** | "How I actually decide what goes together." → closing slide reuses the brief's own phrase, "what's in rotation this week" **(Evidence — brief, line 34)** |
+| **Sat — Outfit/Lifestyle Reel** | Style as incidental evidence of the life being built; crosses into the Documentary pillar **(Evidence — brief, line 12)** | "A Saturday in the life I'm building." |
+| **Sun — Rest/Review slot** | The *only* slot where affiliate tracking may surface explicitly **(Evidence — brief, line 40)**; a quiet week-in-review with the rotation recap as one beat, not the headline | "What actually stayed in rotation this week." |
+| **Braise Beauty BTS** | The absence of a finished product *is* the content — founding-stage decisions as proof material, never a launch pitch **(Evidence — brief, lines 18, 21)** | "What 'founding stage' actually looks like." Must include testing on her own skin, answering the deeper-skin-tone secondary audience directly **(Evidence — brief, line 7)**. |
 
-**Cut for filler or generic-tutorial risk:** a standalone "what are AI agents" explainer, setup/installation/prompting-mechanics walkthrough, a third objection already answered live by the reject/refine beat, any dollar-value comparison, and any "this week"/scarcity language.
+**Explicit do-not list for Sunday** (highest-risk slot for drifting into "affiliate day" territory): no "shop my week" framing, no multiple links, no metrics or growth claims — none exist in the brief **(Evidence — brief, line 39)**.
+
+**Explicit exclusion for Braise Beauty BTS:** no CTA to buy, preorder, or "join a list" anywhere in this pillar — the offer stage is "witness the build," not "purchase" **(Evidence — Offer Architecture, Core Offer #2)**.
+
+**Distinctiveness check:** the five angles use different mechanisms (function-first, decision-logic, life-evidence, rotation-recap, founding-stage-honesty) specifically so the week doesn't read as five near-identical promo posts, which would violate the brief's rule that monetized content is never its own lane **(Evidence — brief, line 18)**.
 
 ## Conversion System
 
-**Lead Magnet — The Match Kit (Self-Run Edition):** run your own positioning/offer/content idea through the exact rule that just rejected the video's first attempt. Contents: the five gate rules written out plainly; a self-run five-prompt chain the viewer pastes into whatever AI tool they already use, written to reject vague input the same way the video showed; the video's own unblurred before/after as a reference point; a one-page reject log. Wanted immediately because it's the direct continuation of the exact moment that earned the viewer's attention, not a competing offer.
+**Scope discipline:** this is not a lead-magnet/funnel/workshop system in the SaaS sense. The brief names no email list, waitlist, preorder page, or sales page anywhere in its 42 lines — that gap was checked directly, not assumed. Anything below that resembles capture infrastructure is explicitly labeled **(Inference — proposed, not yet authorized by the brief)**.
 
-**In-Video CTA:** "If you want to know whether your own positioning, offer, and content actually match — not guess, actually check — I put the same rule you just watched reject my first attempt into something you can run yourself. It's free. It's the exact five checks from this video. And it will reject your input the same way mine got rejected, if it's not specific enough yet. That's not a flaw in it — that's it working. Link's below. Go run your own idea through it and see what comes back."
+**Affiliate line — "The Rotation"** *(Inference — a name for the existing Sunday slot, not a new asset)*: reuses the brief's own sanctioned phrase, "what's in rotation" **(Evidence — brief, line 34)**, as a recurring, cumulative artifact rather than a one-off caption. Promise is continuity ("pieces that survived more than one wear, reviewed honestly, once a week"), not a discount or urgency hook.
 
-**5-Email Follow-Up Sequence:**
-1. **Day 0 — "Here's the rule (all five checks)."** Deliver the kit; reset expectations so a first-pass reject reads as normal, not failure. CTA: reply with what gate one rejected.
-2. **Day 2 — "The most common reject."** Normalize the most common first failure (accurate but not specific). CTA: run gate two next.
-3. **Day 4 — "What 'match' actually looks like."** Re-show the standard using the video's own before/after — a pass is five pieces that couldn't exist without the one before it. CTA: check your own five pieces against that test.
-4. **Day 7 — "Where the self-run kit stops."** Honest limitation: self-grading can't catch when you're being too easy on yourself. Opens a small, unpriced-yet workshop interest list — framed as early access, not a settled offer. CTA: reply "in" for the list, no charge to join it.
-5. **Day 12 — "Still got a piece that doesn't pass?"** Low-pressure check-in; kit remains complete and standalone; soft nudge to the still-open workshop list. CTA: reply with the stuck gate, or reply "in."
+**Braise Beauty line — "The Save Is the Signal"**: reuses the brief's own already-stated success metric — saves and shares over likes **(Evidence — brief, line 39)** — as the demand-capture mechanism itself. This requires no new tool and no new CTA on BTS content, and cannot violate the pillar's no-CTA rule because nothing is added to the posts.
+- **Optional extension, explicitly NOT authorized** *(Inference — proposed only)*: an Instagram Stories highlight archiving BTS moments, with an occasional (not weekly) interest-sticker such as "would this work on your skin tone?" This is flagged clearly as a proposal requiring the creator's explicit sign-off — it is not part of the active system, and the safer default is not to implement it until Braise Beauty has an actual product.
 
-**Sales Path:** free video → free Match Kit (self-run, same five gates) → paid workshop (same gates, run live, someone else checking the reject calls — presale-validated, price never stated as settled) → premium done-with-you sprint (gated on workshop conversions actually materializing, deliberately absent from all email copy for now). Continuity of the rule — not escalating promise — is what moves someone down the path; every rung answers the same question (can I tell whether my own five pieces match?) with progressively more support attached.
+**In-slot CTA** — the only conversion language authorized anywhere, closing the Sunday caption:
+> "Saving this one for myself, mostly — but if you want what's actually still in rotation, it's in my bio."
 
-**Friction check:** vocabulary locked to "gate / rule / reject / match" at every touchpoint — no new metaphor introduced anywhere; no DWY mention before the workshop has real conversions; no outcome (client/revenue) language in any email; workshop price always framed as unconfirmed; ask size stays proportional (reply/self-check early, workshop interest only at email 4–5, no checkout link); and one load-bearing dependency — the self-run prompts in the kit must actually reproduce the reject behavior shown on camera, or the funnel's credibility fails at the very first touchpoint.
+No CTA is proposed for Tue/Wed/Sat beyond the single "linked in bio" mention already covered in Content Strategy, and **no CTA is proposed for Braise Beauty BTS at all.**
 
-## What The Creator Must Show On Screen To Be Credible
+**Follow-up rhythm — five representative Sundays, not a five-part campaign:** the brief has no email list, so this is not a nurture sequence — it's the recurring Sunday slot itself, deepening the same "in rotation" thread each week rather than escalating a promotional ask (which would contradict the 90-day patience rule, **Evidence — brief, line 39**):
 
-- The reject/refine beat (2:30–4:30) run in as close to real time as the format allows, on a genuine unscripted input, with the rejection criteria visibly rendered — not narrated.
-- A second, smaller rejection later in the chain (6:10–6:50), so the first doesn't read as a one-off staged moment.
-- The dependency chain shown mechanically — a real output pasted or referenced as the next piece's input, every transition.
-- The full before/after (8:10–9:40) with zero placeholder or bracket text, shown once.
-- One specific, named business example on screen, not an abstract "your business."
+| Week | Hook *(Inference)* | Core idea |
+|---|---|---|
+| 1 | "What actually stayed in rotation this week." | Establish the format — reflection first, rotation second. |
+| 2 | "Same blazer, different week — still reaching for it." | Continuity as proof, not novelty. |
+| 3 | "What I almost didn't keep." | Honest self-correction — resists hype. |
+| 4 | "Slower week, same rotation." | Protects against burnout/hustle framing the brief forbids **(Evidence — brief, lines 27–31)**. |
+| 5 | "One month of what's actually working, not what's trending." | Names consistency of *behavior*, not results — the brief bars judging results before 90 days, not describing what's stayed consistent. |
+
+**Sales path:**
+- *Affiliate (real, active today):* Tue/Wed/Sat content builds context → Sunday recap converges it with the single sanctioned link → click → commission. Nothing new required to run this.
+- *Braise Beauty (pre-transactional):* BTS content with no CTA → trust compounds through honest founding-stage documentation → the only signal returned is saves/shares/DMs → this does **not** convert to a purchase today because there is nothing to purchase yet. The path terminates at "founding-stage supporter," not "customer" — that gap is not filled with an invented checkout flow.
+- *Paid guide, if ever activated:* explicitly out of scope. The save/share signal generated above could someday serve as the "proven demand" the brief gates it behind, but using it that way is a future decision, not something this system claims to already deliver.
+
+## Friction Check (self-critical, carried through the full pipeline)
+
+1. The Stories-highlight/sticker extension is the single riskiest item in this document — it must stay visibly separated and marked "not authorized," not blended into the active system.
+2. That same extension sits close to Phase 3's "no CTA in the BTS pillar" rule even though it's placed in Stories, not in-feed — safer default is not implementing it until Braise Beauty has an actual product.
+3. "Five Sundays" is an adaptation, not a brief-stated structure — it should read as five representative weeks of an ongoing rhythm, not a finite campaign with an end state.
+4. No performance data exists anywhere in the brief to confirm any angle or CTA will actually produce saves, shares, or clicks — every "why this works" claim in this document is Inference from voice/positioning fit, not validated behavior.
+5. Internal framework names ("The Build Log," "The Rotation," "The Save Is the Signal") are scaffolding for this document, not copy she should ever say on camera — the only actual on-screen/caption language is the hooks and the CTA, which were checked against the brief's voice rules directly.
+6. Week 5's hook ("one month of what's actually working") walks close to a results statement — judged acceptable because it describes consistency of behavior, not outcomes, but this is a judgment call, not a bright line the brief itself draws.
 
 ## What Was Deliberately Left Out
 
-- Any "$15K strategist" or unscoped dollar-value comparison — not evidenced by the research, not claimed anywhere in this brief.
-- Any client/revenue promise — the offer is licensed to claim coherence only; overclaiming here was flagged as the single biggest credibility risk given inference-scored urgency and willingness-to-pay.
-- "Claude Code," "AI agents," or "subagents" as headline vocabulary in the title, thumbnail, or hook — kept subordinate to the outcome, per the buyer/clicker split risk: the only real search volume for that vocabulary is technical viewers who watch for free and don't buy.
-- Manufactured urgency ("this week," "leaking money now," scarcity/countdown language) — the licensed timing argument is category-level (AI-slop skepticism is current; this specific pairing isn't oversold yet), not personal urgency.
-- A stated DWY sprint price or any DWY mention in the email sequence — gated on the workshop tier having real paying conversions first.
+- Any invented sales figure, follower-growth number, engagement rate, or waitlist count — none exist in the brief.
+- A fifth content slot or a dedicated affiliate/Braise Beauty promo day — the brief explicitly rules this out.
+- Any purchase, preorder, or "join the list" mechanism for Braise Beauty — no such mechanism exists in the brief yet.
+- The paid guide/capsule system as an active offer, CTA, or ladder rung anywhere — gated by the brief's own sequencing behind proof that doesn't currently exist.
+- Discount-code/haul language, multi-link captions, growth/results claims before 90 days, and any generic-AI-sounding phrasing — all directly forbidden by the brief.
