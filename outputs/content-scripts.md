@@ -84,7 +84,7 @@ What's currently on the list: linked in my bio."
 "9–5, then the version of the day that's mine.
 Not a trade-off — just two things that are both true, most days. Documenting the actual build as it happens, in Cape Town, in 2026."
 
-**Judgment call flagged:** this Reel sits in the Saturday slot, which the business brief names as an affiliate touchpoint. Because the content here is documentary/mindset rather than fashion, and no outfit decision is the subject of the piece, I did not force a "linked in bio" mention — inserting one with nothing product-related on screen would read as ad injection, which the brief's tone rules (line 41, no template-feeling output) argue against. If Susu wants Saturday to always carry the link regardless of content type, that's a one-line addition to the caption's close, but I left it out here on the reasoning above. Recommend confirming with her directly.
+**Decision (resolved): no link.** This Reel sits in the Saturday slot, which the brief names as an affiliate touchpoint — but a link only functions as affiliate revenue when there's an actual product on screen to click through to, and there isn't one here. Inserting a link anyway would read as ad injection with nothing behind it, directly against the brief's own rule that affiliate content must be "introduced through story, never as an ad or a hard sell" (line 18). CTA presence is decided by content substance, not by which day it posts — the same discipline already applied to Braise Beauty BTS content. Recommended cadence: use this documentary-Saturday variant occasionally (roughly 1–2x/month), not as the default, so most Saturdays stay outfit-led and keep the affiliate touchpoint intact.
 
 ---
 
@@ -111,7 +111,7 @@ Not a trade-off — just two things that are both true, most days. Documenting t
 "The system isn't glamorous. It's mostly just fewer decisions left to make twice.
 Built it the same way I build everything else — one repeat task removed at a time."
 
-**Judgment call flagged (consistent with Reel #3 above):** no fashion, no product referenced, so no link mention was inserted. This Reel functions as a Saturday content variant that sits outside the affiliate touchpoint pattern by design (per the brief's own instruction that this idea has "no fashion content... at all"). Flagging this explicitly so it's a conscious choice, not a missed rule — if this concept runs on a Saturday that also needs to carry affiliate weight, that would need to be resolved by Susu or folded into a different week's Tue/Wed placement instead.
+**Decision (resolved): no link**, same reasoning as Reel #3 — no fashion, no product referenced, so no revenue-generating link to include. This concept sits outside the affiliate cadence by design and should be used as an occasional Saturday variant (1–2x/month), not the weekly default, so the affiliate touchpoint isn't lost most weeks.
 
 ---
 
@@ -193,6 +193,6 @@ Documenting Braise Beauty as it's really built, in the time it's really built in
 
 ## Summary of Judgment Calls Made
 
-1. **Reel #3 and #4 (both Saturday concepts):** neither carries a "linked in bio" mention. The business brief names Saturday as one of three affiliate touchpoints, but both approved concepts for this slot are explicitly documentary/mindset or systems-focused with no outfit or product as the subject. Forcing a link onto content with nothing product-related on screen would read as ad injection and violate the brief's own ban on template-feeling output (line 41). Flagged for Susu's direct confirmation rather than resolved unilaterally.
+1. **Reel #3 and #4 (both Saturday concepts) — resolved:** neither carries a "linked in bio" mention. A link only functions as affiliate revenue when a product is actually on screen, and neither piece has one — forcing a link in anyway would be ad injection with no substance behind it, against the brief's own rule that affiliate content must be introduced through story, never as a hard sell (line 18). CTA presence is decided by content substance, not by which day it posts, consistent with how Braise Beauty BTS content already works. Recommended cadence: run these as the occasional documentary Saturday (1–2x/month), keeping most Saturdays outfit-led so the affiliate touchpoint isn't lost most weeks.
 2. **Idea 6's competitor-neutrality:** the brief only forbids discount/haul language and negative-marketing tone was implied by the user's own constraint ("never a takedown of a specific competitor brand"). No product is named, shown label-forward, or made identifiable in the script — kept deliberately generic (a product, a shelf) so the piece can't be read as a callout regardless of what she actually films.
 3. **Serif on-screen text budgeted at 2–3 moments per Reel** (hook, one mid-video line, one closing line) rather than captioning every spoken word, per the research brief's guidance that serif reads slower and should be reserved, not dense.
