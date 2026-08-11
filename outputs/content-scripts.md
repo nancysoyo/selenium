@@ -191,6 +191,32 @@ Documenting Braise Beauty as it's really built, in the time it's really built in
 
 ---
 
+## 8. "The Pieces That Keep Making the List" (CAROUSEL)
+**Slot:** Wednesday styling carousel — Fashion × affiliate-forward alternate (used in weeks she's spotlighting several pieces at once, instead of the single decision-tree breakdown in Script #2)
+**Format:** 8 slides, all with her face as the visual background per slide, centred thin serif text, thin divider line under the headline only, no border frames — same design system as Script #2, so the two Wednesday formats feel like one continuous visual language rather than two different accounts.
+
+**Hook (Slide 1):** *"Same pieces, different week — this is what's still earning space."*
+
+| Slide | On-screen text | Visual direction |
+|---|---|---|
+| 1 | "What keeps making the list." *(headline)* / "Reviewed weekly. These are still on it." *(sub-line, smaller serif, centred beneath thin divider)* | Her face mid-motion, already adjusting a cuff or collar in a mirror — not posed for the camera. Curiosity-gap framing: no full outfit shown yet, no piece named. |
+| 2 | "The list isn't long on purpose." | Her in the actual context — laying pieces out on a bed or rail, a real, unstyled moment. Documentary framing, sets up the standard before naming anything. |
+| 3 | "Same test every time: does it get worn again without me deciding to." | Close on her hands, mid-motion, actually putting something on — the decision point made visible, not a flat-lay. |
+| 4 | "Still on the list: the blazer. Layers over anything, never reads as effort." *(reason line beneath, smaller serif)* "Three months of pressed collars and no time to think about it — it hasn't come off the list once." | Her wearing it, caught in genuine movement — reaching for a bag, mid-stride. One piece, isolated, same visual system as slides 2–3. |
+| 5 | "Still on the list: the trousers." "Give in them when I'm bending down for the third time, not just stretch on a label — that's the part that keeps them here." | Her in motion, kneeling or bending — the trousers doing the work the text describes, not described in a caption over a still shot. |
+| 6 | "Still on the list: the shoes." "A full week on my feet, on and off a train, no blister excuse by Friday — that's the actual bar." | Her walking, mid-stride, shoes in frame as part of the motion, not a product shot. |
+| 7 | "Still on the list: the bag." "Holds what I need and what my daughter needs, structured enough to survive both — that's the whole reason it's stayed." | Her face, steadier here — a beat of stillness after three motion-heavy slides, bag in frame as she settles into a moment, not displaying it. |
+| 8 | "The current list, as it stands." *(headline)* / "Reviewed every Sunday. Nothing stays by default." *(sub-line)* | Her face, same visual system as slide 1 — full circle. Built as the save-and-reopen slide: a condensed reference of everything named above, no sign-off tone. |
+
+**Design continuity notes:** same serif weight and centring across all 8 slides; the thin divider line sits under every headline in the identical position; every slide keeps her face in frame (no plain-colour or text-only slide at any point, per brief line 36); each "still on the list" slide pairs the piece with one concrete, lived-in reason it survived — never a standalone "I love this," which is what keeps the carousel from reading as a shop-this list. "Still on the list" is this carousel's internal reusable formula, the counterpart to Script #2's "Pass/Fail" — distinct enough that the two Wednesday formats don't blur together, but built on the same design and voice system.
+
+### Caption
+"Not a haul — just the list, reviewed the same way every week: do I reach for it without a second thought, or did it just look good once.
+Everything above is still in active rotation. Nothing's added just to fill a slide.
+What's currently in rotation: linked in my bio."
+
+---
+
 ## Summary of Judgment Calls Made
 
 1. **Reel #3 and #4 (both Saturday concepts) — resolved:** neither carries a "linked in bio" mention. A link only functions as affiliate revenue when a product is actually on screen, and neither piece has one — forcing a link in anyway would be ad injection with no substance behind it, against the brief's own rule that affiliate content must be introduced through story, never as a hard sell (line 18). CTA presence is decided by content substance, not by which day it posts, consistent with how Braise Beauty BTS content already works. Recommended cadence: run these as the occasional documentary Saturday (1–2x/month), keeping most Saturdays outfit-led so the affiliate touchpoint isn't lost most weeks.
