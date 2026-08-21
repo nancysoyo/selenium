@@ -100,8 +100,8 @@ Not a trade-off — just two things that are both true, most days. Documenting t
 | 0:02–0:06 | She's setting something up — a calendar, a batch of prepped items, a system visibly in motion (not explained, just shown) | "I didn't find more time." *(held 3–4s)* | VO: *"I didn't find more time. I built a system that stopped wasting the time I had."* |
 | 0:06–0:09 | New beat: a genuinely small, real action — labeling something, moving an item into place, a task completing itself because it was already set up | — | Quiet mechanical sound (a drawer, a click) |
 | 0:09–0:13 | New beat: she checks something off or closes a loop — visible completion, not narrated | "A system that stopped wasting it." *(mid-video statement, held 3–4s)* | Ambient |
-| 0:13–0:17 | New beat: she's now with her child, present, unhurried — this is the point of the system, shown rather than stated | — | Child's sound, low in mix |
-| 0:17–0:20 | New beat: back to her, a single still frame, the day's motion settling | — | Quiet |
+| 0:13–0:17 | New beat: she finally sits, still, coffee in hand — a genuine pause, the system's actual payoff, hers alone | — | Quiet, a real exhale |
+| 0:17–0:20 | New beat: back to her, a single still frame, settling further into the pause | — | Quiet |
 | 0:20–0:22 | Final resolution frame, her face, direct | "That's the whole system." *(closing line, held 3s)* | Cut to silence |
 
 ### Spoken Line (full)
@@ -112,6 +112,8 @@ Not a trade-off — just two things that are both true, most days. Documenting t
 Built it the same way I build everything else — one repeat task removed at a time."
 
 **Decision (resolved): no link**, same reasoning as Reel #3 — no fashion, no product referenced, so no revenue-generating link to include. This concept sits outside the affiliate cadence by design and should be used as an occasional Saturday variant (1–2x/month), not the weekly default, so the affiliate touchpoint isn't lost most weeks.
+
+**Revised per the personal-brand privacy boundary (business-brief.md):** the original cut showed her child on camera as the "point of the system." That's exposure, not identity — the child stays private per the brand's "protect the life" rule. Single motherhood remains present only as implicit context (the concept's own name, "the time I had") — nothing in the visual or spoken content names or shows the child. The system's payoff is now shown as her own stillness, not a parenting moment.
 
 ---
 
@@ -189,6 +191,8 @@ Documenting Braise Beauty as it's really built, in the time it's really built in
 
 **No link, no CTA — per hard rule.** Framing verified against narrative bans: no "exhausted," no "somehow," no scarcity-of-time language presented as hardship — the twenty minutes is framed as ownership and choice, never struggle, per brief lines 29–31.
 
+**Reviewed against the personal-brand privacy boundary (business-brief.md) — passes unchanged.** No beat shows the child; "bedtime" appears only as a brief, honest context detail (identity, not exposure), and the visual subject throughout is Braise Beauty work, not parenting mechanics. No revision needed.
+
 ---
 
 ## 8. "The Pieces That Keep Making the List" (CAROUSEL)
@@ -205,7 +209,7 @@ Documenting Braise Beauty as it's really built, in the time it's really built in
 | 4 | "Still on the list: the blazer. Layers over anything, never reads as effort." *(reason line beneath, smaller serif)* "Three months of pressed collars and no time to think about it — it hasn't come off the list once." | Her wearing it, caught in genuine movement — reaching for a bag, mid-stride. One piece, isolated, same visual system as slides 2–3. |
 | 5 | "Still on the list: the trousers." "Give in them when I'm bending down for the third time, not just stretch on a label — that's the part that keeps them here." | Her in motion, kneeling or bending — the trousers doing the work the text describes, not described in a caption over a still shot. |
 | 6 | "Still on the list: the shoes." "A full week on my feet, on and off a train, no blister excuse by Friday — that's the actual bar." | Her walking, mid-stride, shoes in frame as part of the motion, not a product shot. |
-| 7 | "Still on the list: the bag." "Holds what I need and what my daughter needs, structured enough to survive both — that's the whole reason it's stayed." | Her face, steadier here — a beat of stillness after three motion-heavy slides, bag in frame as she settles into a moment, not displaying it. |
+| 7 | "Still on the list: the bag." "Holds everything an actual day requires, structured enough to survive all of it — that's the whole reason it's stayed." | Her face, steadier here — a beat of stillness after three motion-heavy slides, bag in frame as she settles into a moment, not displaying it. |
 | 8 | "The current list, as it stands." *(headline)* / "Reviewed every Sunday. Nothing stays by default." *(sub-line)* | Her face, same visual system as slide 1 — full circle. Built as the save-and-reopen slide: a condensed reference of everything named above, no sign-off tone. |
 
 **Design continuity notes:** same serif weight and centring across all 8 slides; the thin divider line sits under every headline in the identical position; every slide keeps her face in frame (no plain-colour or text-only slide at any point, per brief line 36); each "still on the list" slide pairs the piece with one concrete, lived-in reason it survived — never a standalone "I love this," which is what keeps the carousel from reading as a shop-this list. "Still on the list" is this carousel's internal reusable formula, the counterpart to Script #2's "Pass/Fail" — distinct enough that the two Wednesday formats don't blur together, but built on the same design and voice system.
@@ -215,6 +219,8 @@ Documenting Braise Beauty as it's really built, in the time it's really built in
 Everything above is still in active rotation. Nothing's added just to fill a slide.
 What's currently in rotation: linked in my bio."
 
+**Revised per the personal-brand privacy boundary (business-brief.md):** slide 7's original text named "my daughter" directly. Removed — the child's specific needs aren't content material, even as a passing text reference. The bag's practical, multi-tasking function is still communicated without naming who or what it's carrying for.
+
 ---
 
 ## Summary of Judgment Calls Made
@@ -222,3 +228,4 @@ What's currently in rotation: linked in my bio."
 1. **Reel #3 and #4 (both Saturday concepts) — resolved:** neither carries a "linked in bio" mention. A link only functions as affiliate revenue when a product is actually on screen, and neither piece has one — forcing a link in anyway would be ad injection with no substance behind it, against the brief's own rule that affiliate content must be introduced through story, never as a hard sell (line 18). CTA presence is decided by content substance, not by which day it posts, consistent with how Braise Beauty BTS content already works. Recommended cadence: run these as the occasional documentary Saturday (1–2x/month), keeping most Saturdays outfit-led so the affiliate touchpoint isn't lost most weeks.
 2. **Idea 6's competitor-neutrality:** the brief only forbids discount/haul language and negative-marketing tone was implied by the user's own constraint ("never a takedown of a specific competitor brand"). No product is named, shown label-forward, or made identifiable in the script — kept deliberately generic (a product, a shelf) so the piece can't be read as a callout regardless of what she actually films.
 3. **Serif on-screen text budgeted at 2–3 moments per Reel** (hook, one mid-video line, one closing line) rather than captioning every spoken word, per the research brief's guidance that serif reads slower and should be reserved, not dense.
+4. **Personal-brand privacy boundary applied (business-brief.md update):** identity vs. exposure — being a single mother is identity/context and stays in the narrative (already established in business-brief.md's narrative rules); the child specifically (face, name, daily life shown as the content itself) is protected and stays private. Script #4 had the child on camera as the visual point of the post — revised to show the system's payoff as her own stillness instead. Script #8's slide 7 named "my daughter" directly in on-screen text — revised to describe the bag's function without naming who it's for. Script #7 was reviewed against the same standard and needed no change — it never shows the child and uses "bedtime" only as brief context. The "Single mother building" content pillar itself doesn't need retiring under this standard: it can stay as a pillar about resilience and identity, as long as individual pieces keep applying this same distinction rather than showing the child or centering home-life mechanics.
