@@ -19,6 +19,16 @@ What the brand shows vs. protects:
 - **Show:** the woman (polished presence, confident communication, leadership), the mind (lessons on resilience, career growth, entrepreneurship, money, confidence, building from nothing), the work (Braise Beauty, creative process, decisions, what she's learning), the aspiration (spaces, travel, wellness, books — as visual language, not proof of wealth).
 - **Protect (stays private, not shown in content):** her child, relationship details, home-life specifics, finances, family dynamics, difficult personal moments. This is a boundary, not secrecy — consistency in what's shown matters more than posting frequency.
 
+Brand associations:
+- **Associate with:** trustworthiness, resilience and overcoming, elevated taste and presentation, visible systems-thinking.
+- **Protect against:** fashion content with no substance behind it — the founding mistake to not repeat (she started out doing fashion-only content that didn't align with the deeper brand); performative success signaling; blending into generic lifestyle-influencer content or trend-chasing; any partnership or affiliate that undermines the elevated positioning.
+
+The gap: Most style/fashion creators show taste without the thinking behind it. Most entrepreneur/business creators show hustle without elegance. The differentiator is fusing both — elevated presence plus visibly rigorous, systems-based thinking, from someone who actually is an engineer, not performing ambition. The goal isn't to blend in — it's finding what's missing in the industry and owning it: taking a topic that's been talked about for years (personal branding, resilience, entrepreneurship) and bringing a genuinely new angle to it.
+
+Credibility mechanism: credibility is built by repeating the same one thing consistently over time, not by breadth. The five content pillars (below) are five angles on one identity — the Relentless Builder, systems-thinking applied to a real life — not five separate topics. Talking about everything in the beginning dilutes what should compound. Content posture: document, don't teach — tell the story of building, not prescriptive advice. Talking about a topic she isn't confidently sure of is not good; teaching comes later, once real expertise is earned in a specific area. If the brand ever expands beyond these pillars, expansion must stay visibly tethered to this core identity — never replace it.
+
+Proof points (what content should let people notice over time, not state outright): her organisation and planning ("always perfect"), her career growth, her strength in solo parenting while still showing up polished (the strength is the point — the child stays private, per the boundary above), her general wisdom for her age (earned implicitly through how she talks, never claimed directly as "I'm wise"), her energy and personality (this is the retention/likability layer — distinct from the credibility markers above, but what keeps people around long enough to receive them).
+
 Content goal:
 Turn consistent Instagram/TikTok content into two real revenue lines — affiliate income from fashion content now, and demand for Braise Beauty products as the brand launches — without diluting the elevated, documentary-style positioning already built.
 
@@ -47,3 +57,4 @@ Constraints:
 - Do not judge results before 90 days; saves and shares matter more than likes.
 - Fold affiliate tracking into the existing Sunday rest/review slot — never a separate "affiliate day."
 - No generic AI advice or AI-sounding output — everything must sound like her actual voice, not a template.
+- Document, don't teach — no prescriptive advice or "here's how you should" framing on topics she hasn't earned real expertise in yet. Show the process and the decision, don't instruct.
