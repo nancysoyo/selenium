@@ -1,15 +1,23 @@
 # Business Brief
 
 Creator:
-Susu (Ugomma Tess Awani) — @ma.milann (personal brand, 3,560 followers) / Braise Beauty (product brand, founding stage). Cape Town, South Africa. Automation engineer, single mother, works 9–5.
+Susu (Ugomma Tess Awani) — @ma.milann (personal brand, 3,560 followers), representing her as a whole person: QA/automation engineer (9–5 career) and co-founder of Braise Beauty (product brand, founding stage). Cape Town, South Africa, single mother. @ma.milann is the personal brand; Braise Beauty is one thing she's building and documenting inside it — not a separate identity.
 
 Audience:
-Ambitious women 25–40 elevating their style and their life. Secondary audience for Braise Beauty specifically: women with deeper skin tones looking for beauty products that celebrate their complexion.
+Ambitious women 25–40 elevating their style and their life. Named audience: **The Relentless Woman** — she has had to build from the ground up, carries responsibilities others don't see, has been disappointed or underestimated, still wants more than survival, and wants to build wealth, confidence, beauty, freedom, and a meaningful life without being told to "just work harder." Secondary audience for Braise Beauty specifically: women with deeper skin tones looking for beauty products that celebrate their complexion.
 
 Core promise:
 I help ambitious women elevate their style and their life — because when you look good, you believe bigger. Delivered by documenting the real build of Braise Beauty and an intentionally engineered life, not by performing an aesthetic.
 
 Central identity: A woman engineering her own life.
+
+Leadership archetype: **The Relentless Builder** — elegant, strategic, resilient, ambitious. Doesn't shout or perform ambition; demonstrates what's possible by building it herself. Core message: "You can build the life you want, even when you didn't start with the life you wanted." Not the loud motivational-guru type — confidence without over-explaining.
+
+Personal brand philosophy: **Reveal the philosophy. Curate the evidence. Protect the life.** Content should say "look at the woman I'm becoming," never "look at the life I have" — a journey, not an arrival, which is what makes it hard to judge and easy to trust. Presence should give people a feeling before they know the whole story: elegant, ambitious, resilient, intelligent, feminine, building.
+
+What the brand shows vs. protects:
+- **Show:** the woman (polished presence, confident communication, leadership), the mind (lessons on resilience, career growth, entrepreneurship, money, confidence, building from nothing), the work (Braise Beauty, creative process, decisions, what she's learning), the aspiration (spaces, travel, wellness, books — as visual language, not proof of wealth).
+- **Protect (stays private, not shown in content):** her child, relationship details, home-life specifics, finances, family dynamics, difficult personal moments. This is a boundary, not secrecy — consistency in what's shown matters more than posting frequency.
 
 Content goal:
 Turn consistent Instagram/TikTok content into two real revenue lines — affiliate income from fashion content now, and demand for Braise Beauty products as the brand launches — without diluting the elevated, documentary-style positioning already built.
