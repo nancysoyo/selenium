@@ -15,6 +15,14 @@ Leadership archetype: **The Relentless Builder** — elegant, strategic, resilie
 
 Personal brand philosophy: **Reveal the philosophy. Curate the evidence. Protect the life.** Content should say "look at the woman I'm becoming," never "look at the life I have" — a journey, not an arrival, which is what makes it hard to judge and easy to trust. Presence should give people a feeling before they know the whole story: elegant, ambitious, resilient, intelligent, feminine, building.
 
+Brand story framework (who the content is actually for and why):
+- **Hero:** the audience — The Relentless Woman — not Susu. Content should let the viewer see herself in the story, not just watch Susu's.
+- **Mission (what the hero values):** wants to build wealth, confidence, beauty, freedom, and a meaningful life. Wants proof it's possible, not more motivation to "work harder."
+- **Obstacle:** she's had to build from the ground up, carries responsibilities others don't see, has been disappointed or underestimated — and the real obstacle is the absence of a credible model showing this is buildable without an easy start, not a lack of ambition.
+- **Facilitator (the guide, not the hero):** Susu / @ma.milann — credible specifically because she's building from a comparable starting point (single mother, 9–5, no easy start), not because she's already arrived. The guide demonstrates, per "document, don't teach" — she doesn't instruct the hero, she shows her own path.
+- **Journey:** the ongoing, undramatized documentation of building — Braise Beauty from founding stage forward, career growth, style, an engineered life — watched unfolding in real time, not presented as a finished result.
+- **Higher purpose:** to show every woman that she can achieve whatever she wants, regardless of where she started.
+
 What the brand shows vs. protects:
 - **Show:** the woman (polished presence, confident communication, leadership), the mind (lessons on resilience, career growth, entrepreneurship, money, confidence, building from nothing), the work (Braise Beauty, creative process, decisions, what she's learning), the aspiration (spaces, travel, wellness, books — as visual language, not proof of wealth).
 - **Protect (stays private, not shown in content):** her child, relationship details, home-life specifics, finances, family dynamics, difficult personal moments. This is a boundary, not secrecy — consistency in what's shown matters more than posting frequency.
