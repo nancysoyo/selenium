@@ -55,6 +55,7 @@ Constraints:
 - Centred text only, thin serif font, no border frames, thin divider lines only.
 - One affiliate profile only — no bulk tactics, no buying followers, no multiple accounts.
 - Do not judge results before 90 days; saves and shares matter more than likes.
+- Signature opening, every piece: already mid-motion, in silence — no greeting, no setup, nothing spoken or on-screen before the first beat lands. This is the recognizable opener across all content, not a spoken catchphrase — recognition should come from a felt pattern, not a repeated line.
 - Fold affiliate tracking into the existing Sunday rest/review slot — never a separate "affiliate day."
 - No generic AI advice or AI-sounding output — everything must sound like her actual voice, not a template.
 - Document, don't teach — no prescriptive advice or "here's how you should" framing on topics she hasn't earned real expertise in yet. Show the process and the decision, don't instruct.
