@@ -9,9 +9,9 @@ Ambitious women 25–40 elevating their style and their life. Named audience: **
 Core promise:
 I help ambitious women elevate their style and their life — because when you look good, you believe bigger. Delivered by documenting the real build of Braise Beauty and an intentionally engineered life, not by performing an aesthetic.
 
-Central identity: A woman engineering her own life.
+Central identity: A woman engineering her own life. The organizing question behind every piece of content is not "what type of creator am I" but **"what am I building, and what do I want people to believe is possible because they watched me build it?"** Fashion, beauty, home, career, and entrepreneurship aren't separate content categories she has to pick between — they're different languages for the same through-line: a woman deliberately building a bigger life while still living inside the current one. Her current chapter — full-time job, single mother, founding-stage brand — isn't something to hide until she's "made it." It IS the story: a founder who currently has a full-time job, building the infrastructure to support bigger ambition, in public.
 
-Leadership archetype: **The Relentless Builder** — elegant, strategic, resilient, ambitious. Doesn't shout or perform ambition; demonstrates what's possible by building it herself. Core message: "You can build the life you want, even when you didn't start with the life you wanted." Not the loud motivational-guru type — confidence without over-explaining.
+Leadership archetype: **The Relentless Builder** — elegant, strategic, resilient, ambitious. Doesn't shout or perform ambition; demonstrates what's possible by building it herself. Core message: "You can build the life you want, even when you didn't start with the life you wanted." Sharper version, same idea: "A woman doesn't have to wait until her circumstances are perfect to start becoming the woman she wants to be." Not the loud motivational-guru type — confidence without over-explaining.
 
 Personal brand philosophy: **Reveal the philosophy. Curate the evidence. Protect the life.** Content should say "look at the woman I'm becoming," never "look at the life I have" — a journey, not an arrival, which is what makes it hard to judge and easy to trust. Presence should give people a feeling before they know the whole story: elegant, ambitious, resilient, intelligent, feminine, building.
 
@@ -41,7 +41,14 @@ Content goal:
 Turn consistent Instagram/TikTok content into two real revenue lines — affiliate income from fashion content now, and demand for Braise Beauty products as the brand launches — without diluting the elevated, documentary-style positioning already built.
 
 Content concept:
-A weekly mix across five pillars — Documentary (Building Her, Cape Town 2026), Fashion & outfits (affiliate lives inside this pillar, never a separate promo lane), Mindset, Single mother building, and Braise Beauty (behind-the-scenes, built publicly). Trust and narrative come first; affiliate links and Braise Beauty are introduced through story, never as an ad or a hard sell.
+A weekly mix across five pillars — Documentary (Building Her, Cape Town 2026), Fashion & outfits (affiliate lives inside this pillar, never a separate promo lane), Mindset, Single mother building, and Braise Beauty (behind-the-scenes, built publicly). These are languages, not categories: each pillar is a different way of expressing one worldview, never a separate identity to maintain. Trust and narrative come first; affiliate links and Braise Beauty are introduced through story, never as an ad or a hard sell.
+
+Worldview-statement technique (what every pillar's content should be able to trace back to, even though it's never stated outright on camera — per "document, don't teach"):
+- **Fashion:** you don't need a new identity to become more polished — you need to start treating yourself like the woman you're becoming.
+- **Beauty / Braise Beauty:** building a beauty brand has changed how she thinks about what women actually need.
+- **Career / workday:** holding a full-time job and building a company at once, and what that's teaching her about becoming someone who can hold both.
+- **Home / environment (as aspiration, per "what the brand shows" above — never home-life specifics):** intentional about her environment, because surroundings teach you what you deserve.
+- **Personal-brand / meta:** not trying to look like she's already arrived — documenting what it looks like to build.
 
 Offer path:
 Near-term: affiliate commission from fashion/styling content, already integrated into the existing weekly schedule (Tue outfit Reel, Wed styling carousel, Sat outfit/lifestyle Reel). Emerging anchor offer: Braise Beauty product line (lip oil, liner, blush compact) as it moves out of founding stage. Longer-term possibility: a paid guide/offer for the @ma.milann audience (e.g. capsule wardrobe, "elevate your style" system) once the documentary + fashion content has proven demand.
