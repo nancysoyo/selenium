@@ -227,6 +227,154 @@ What's currently in rotation: linked in my bio."
 
 ---
 
+## 9. "The Zero-Adjustment Test"
+**Slot:** Tuesday outfit Reel — Fashion × automation-engineer identity, Week 2 variant of Script #1
+**Runtime target:** 24 seconds
+
+### Beat Breakdown
+
+| Time | Visual | On-screen text (serif, centred) | Sound |
+|---|---|---|---|
+| 0:00–0:02 | Mid-motion pattern-interrupt: her hand smoothing a waistband as she's already walking into frame, buttoning a cuff mid-stride | — | Ambient: fabric sound, footsteps already in progress |
+| 0:02–0:05 | She reaches fully up to a high shelf — the piece doesn't ride up, doesn't shift, no correction needed after the reach | "I stopped asking if I like it." *(held 3s)* | VO: *"I stopped asking if I like it. I ask if it holds up without me touching it again."* |
+| 0:05–0:08 | Direct cut: she sits down at a desk — no readjustment shown before or after the sit, filmed plainly | — | Ambient: chair, quiet office sound |
+| 0:08–0:11 | New beat: she stands back up, the piece sitting exactly as it did — no tug, no smoothing, the proof shown rather than narrated | "Zero adjustments. That's the only pass." *(mid-video statement, held 3–4s)* | Silence but for the room |
+| 0:11–0:14 | New beat: she bends down for something off the floor, fabric moving with her, no correction after she stands | — | Quiet |
+| 0:14–0:18 | She's walking again, same posture as the opening frame — the loop closes visually, not narrated | — | Footsteps |
+| 0:18–0:21 | New beat: her hand hovers near a hem or cuff for a second, then doesn't touch it — a visual beat of restraint, not fixing what doesn't need fixing | — | — |
+| 0:21–0:24 | Final resolution frame — her face, steady, direct | "If I have to touch it twice, it's out." *(closing line, held 3–4s — the save-trigger frame)* | Cut to silence |
+
+### Spoken Line (full)
+*"I stopped asking if I like it. I ask if it holds up without me touching it again."*
+(One spoken hook, two written beats — same discipline as Script #1: nothing narrated over the middle section.)
+
+### Caption
+"I don't fix my clothes mid-day anymore. If it needs adjusting, it already failed the test.
+This week's bar: does it hold up without me touching it again — not just whether I liked it this morning.
+What passed: linked in my bio."
+
+**Worldview line applied (business-brief.md, not stated on camera):** fashion — *"you don't need a new identity to become more polished, you need to start treating yourself like the woman you're becoming."* The script never says this; it's traceable only in retrospect through the shift in standard itself — last week's test was "do I like it," this week's is "does it hold up without correction," a visibly higher bar applied to herself, not announced as growth.
+
+---
+
+## 10. "Same List, One New Name" (CAROUSEL)
+**Slot:** Wednesday styling carousel — Fashion × single-mother building, Week 2 variant of Script #8
+**Format:** 8 slides, all with her face as the visual background per slide, centred thin serif text, thin divider line under the headline only, no border frames — same design system as Scripts #2 and #8.
+
+**Hook (Slide 1):** *"Same list, one new name on it. It only got there by surviving a day that wasn't supposed to go sideways."*
+
+| Slide | On-screen text | Visual direction |
+|---|---|---|
+| 1 | "What keeps making the list." *(headline)* / "One new name this week. It earned it the hard way." *(sub-line, smaller serif, centred beneath thin divider)* | Her face mid-motion, already adjusting a collar in a mirror — not posed. Curiosity-gap framing: no piece named yet. |
+| 2 | "The list isn't long on purpose." | Her in the actual context — pieces laid out on a bed or rail, unstyled, real. Sets up the standard before naming anything. |
+| 3 | "Same test every time: does it get worn again without me deciding to." | Close on her hands, mid-motion, actually putting something on — the decision point made visible. |
+| 4 | "Still on the list: the blazer." "Second month running. Still the first thing I reach for, no second-guessing." | Her wearing it, caught mid-stride reaching for a bag — one piece, isolated, same visual system as slides 2–3. |
+| 5 | "Still on the list: the trousers." "Bent, sat in a cramped taxi, walked further than planned — never once needed adjusting after." | Her in motion, bending or getting into a car — the trousers doing the work the text describes. |
+| 6 | "Still on the list: the bag." "Most bags I own have failed this test at least once. This one hasn't yet." | Her walking, bag in frame as part of the motion, not a product shot. |
+| 7 | "New this week: the coat." "The train was cancelled. I walked forty minutes in the rain and still looked like I'd planned it that way. That's the only way onto this list." | Her outdoors, real weather visible, coat in motion — the one slide with a specific, lived disruption behind it. |
+| 8 | "The current list, as it stands." *(headline)* / "Reviewed every Sunday. This week it grew by one." *(sub-line)* | Her face, same visual system as slide 1 — full circle. Built as the save-and-reopen slide. |
+
+**Design continuity notes:** same serif weight and centring across all 8 slides; thin divider line sits under every headline in the identical position; every slide keeps her face in frame (no plain-colour or text-only slide, per brief line 36); "Still on the list" remains the carousel's internal reusable formula, unchanged from Script #8, so the two weeks read as one continuing document rather than a reset. Slide 7 is the only slide this week carrying a named disruption (cancelled train, rain, forty-minute walk) — deliberately the single most concrete beat in the set, since it's the reason the new piece is on the list at all.
+
+### Caption
+"Not a haul — the list, reviewed the same way every week: does it get worn again without me deciding to, or did it just look good once.
+This week it grew by one, and it had to earn it — a cancelled train and a walk in the rain it wasn't packed for.
+What's currently in rotation: linked in my bio."
+
+**Worldview line applied (business-brief.md, not stated on camera):** fashion — same underlying line as Script #9. The carousel never says "this proves I'm becoming more polished"; it lets the coat's inclusion do that work implicitly — the standard for staying on the list got harder (survive a disrupted day, not just look good in a shop), which is the treating-herself-like-the-woman-she's-becoming line in action, never in text.
+
+---
+
+## 11. "Before Anyone Else Is Up"
+**Slot:** Braise Beauty BTS Reel — **ZERO CTA** — Week 2 time/ownership variant, reversed from Script #7
+**Runtime target:** 20 seconds
+
+### Beat Breakdown
+
+| Time | Visual | On-screen text | Sound |
+|---|---|---|---|
+| 0:00–0:02 | Pattern-interrupt: her hand already on a light switch, the house still dark and quiet, mid-motion into the next room | — | Ambient — a house not yet awake, very little sound |
+| 0:02–0:06 | She sits down at a table with real materials already out — swatches, a notebook, a laptop with actual Braise Beauty work on screen | "This got built before anyone else was up." *(held 3–4s)* | VO: *"This got built before anyone else was up. Not because it's easier — because that's when it's mine."* |
+| 0:06–0:10 | New beat: a genuine working action — testing a swatch against her hand, adjusting a formula note, writing | — | Quiet working sound |
+| 0:10–0:14 | New beat: early light just starting to change in the window behind her, shown plainly, not dramatized | "Because that's when it's mine." *(mid-video statement, held 3–4s)* | Ambient |
+| 0:14–0:17 | New beat: she closes the notebook, a small, unforced motion — a brief glance toward the hallway, nothing more, house still quiet | — | Quiet |
+| 0:17–0:20 | Final resolution frame — her face, steady, awake, present, not tired, not triumphant | "Before the day starts, it's already mine." *(closing line, held 3s)* | Cut to silence — **no CTA card, no link, no bio mention** |
+
+### Spoken Line (full)
+*"This got built before anyone else was up. Not because it's easier — because that's when it's mine."*
+
+### Caption
+"Most mornings, this happens before the house is up. Not the whole plan — just the part that's genuinely mine before anyone needs anything from me.
+Documenting Braise Beauty as it's actually built, in whatever pocket of time is real."
+
+**No link, no CTA — per hard rule.** Framing checked against narrative bans: no "exhausted," no "somehow found the time," no scarcity framed as hardship — the early hour is framed as a deliberate, owned choice, mirroring Script #7's discipline exactly, just reversed in time.
+
+**Reviewed against the personal-brand privacy boundary (business-brief.md) — passes unchanged.** No beat shows or names the child. "Before anyone else was up" and the brief hallway glance function as identity/context only, never exposure — same standard Script #7 was held to.
+
+**Worldview line applied (business-brief.md, not stated on camera):** beauty / Braise Beauty — *"building a beauty brand has changed how she thinks about what women actually need."* Never stated; the only trace is the choice itself — protecting an early, silent hour specifically for the brand's real work (not admin, not content) implies a seriousness about what she's building that a viewer can infer but is never told to conclude.
+
+---
+
+## 12. "The Saturday Test" (outfit-led default, new template)
+**Slot:** Saturday outfit/lifestyle Reel — Fashion × errand-day, the default Saturday format (distinct from the occasional documentary/mindset Saturday of Script #3 and the occasional systems-engineer Saturday of Script #4)
+**Runtime target:** 26 seconds
+
+**Build note:** no existing script covers a non-documentary, outfit-led Saturday. This was built from the Getting-Dressed Algorithm scaffolding (Script #1's beat rhythm and filter-language voice) but fully re-beated around sustained daytime movement across multiple errand locations rather than a single workday departure — a genuinely new structure, not a drop-in.
+
+### Beat Breakdown
+
+| Time | Visual | On-screen text (serif, centred) | Sound |
+|---|---|---|---|
+| 0:00–0:02 | Mid-motion pattern-interrupt: her hand grabbing keys off a table, already moving toward the door | — | Ambient: keys, door |
+| 0:02–0:05 | She's tying flat shoes, not heels — a real, deliberate choice shown physically, not narrated as a decision | "Saturday runs a different test." *(held 3s)* | VO: *"Saturday runs a different test than Tuesday does. Today it's not about a meeting — it's about staying in motion for six hours straight."* |
+| 0:05–0:08 | New beat: she's out — walking into a market or store, already carrying a bag, real motion, no posed entrance | — | Ambient: street, market sound |
+| 0:08–0:11 | New beat: getting in and out of a car, one continuous motion, no wardrobe check performed before or after | — | Car door, ambient |
+| 0:11–0:14 | New beat: mid-video statement, shown over her walking between two errand stops, bags visibly in hand | "Six hours. No changing, no adjusting." *(held 3–4s)* | Ambient |
+| 0:14–0:18 | New beat: another stop — picking up a package or crossing a street, sustained motion continuing, filmed as a real day, not a montage | — | Ambient |
+| 0:18–0:21 | New beat: both hands full now, piece still holding its shape and position — the visual proof of the filter, unnarrated | — | Quiet |
+| 0:21–0:24 | New beat: she's walking up to her own front door, keys again — the loop closes visually against the opening frame | — | Footsteps, keys |
+| 0:24–0:26 | Final resolution frame — her face, steady, unhurried | "If it survives Saturday, it earns the week." *(closing line, held 3–4s — the save-trigger frame)* | Cut to silence |
+
+### Spoken Line (full)
+*"Saturday runs a different test than Tuesday does. Today it's not about a meeting — it's about staying in motion for six hours straight."*
+
+### Caption
+"Saturday doesn't ask if I like an outfit. It asks if it can actually keep up.
+Six hours, three stops, no changing — that's the whole bar today.
+What I wore: linked in my bio."
+
+**Worldview line applied (business-brief.md, not stated on camera):** fashion — same underlying line as Scripts #9 and #10, tested against a different variable (endurance across movement, not correction-free stillness). Never stated; the closing line ("earns the week") is the only trace, and it reads as a personal standard, not a lesson offered to the viewer.
+
+---
+
+## 13. "This One Didn't Make It"
+**Slot:** Sunday review Reel — Fashion × Mindset, Week 2 variant of Script #5
+**Runtime target:** 25 seconds
+
+### Beat Breakdown
+
+| Time | Visual | On-screen text | Sound |
+|---|---|---|---|
+| 0:00–0:02 | Pattern-interrupt: already flipping through the rail, her hand pausing on one specific piece, mid-motion | — | Ambient hangers |
+| 0:02–0:06 | She holds the piece up, genuinely looking at it — an honest, unhurried assessment, not performed regret | "This one didn't make it." *(held 3–4s)* | VO: *"This one didn't make it. I liked it in the shop. I didn't reach for it once."* |
+| 0:06–0:09 | New beat: she checks the tag, still barely worn — filmed plainly, no dramatic pause, no sad framing | — | Quiet |
+| 0:09–0:13 | New beat: the piece goes into a separate pile, no ceremony, placed rather than removed with weight | "Liked it once isn't the same test." *(mid-video statement, held 3–4s)* | Ambient |
+| 0:13–0:17 | New beat: she's already back at the main rail, moving to the next piece — quick, no dwelling on the one that's out | — | Fabric sound |
+| 0:17–0:21 | New beat: a wide shot of the settled rail, one slot noticeably lighter — this week's real, unsentimental result | — | Quiet |
+| 0:21–0:25 | Final resolution frame — her face, steady, matter-of-fact | "I liked it in the shop. That's not the same test." *(closing line, held 3–4s — the save-trigger frame)* | Cut to silence |
+
+### Spoken Line (full)
+*"This one didn't make it. I liked it in the shop. I didn't reach for it once."*
+
+### Caption (CTA used verbatim, as required)
+"This one didn't make it. I liked it in the shop — I never actually reached for it.
+The rail doesn't care what I liked in the moment, only what got worn again.
+If you want to see what's still in rotation, it's linked in my bio."
+
+**Worldview line applied (business-brief.md, not stated on camera):** fashion — same underlying line, shown here through the cut rather than the keep. Never stated as "this is what becoming more polished looks like"; the absence of ceremony around the cut is the only trace — the standard is applied evenly, to herself, without narrating it as growth or self-improvement.
+
+---
+
 ## Summary of Judgment Calls Made
 
 1. **Reel #3 and #4 (both Saturday concepts) — resolved:** neither carries a "linked in bio" mention. A link only functions as affiliate revenue when a product is actually on screen, and neither piece has one — forcing a link in anyway would be ad injection with no substance behind it, against the brief's own rule that affiliate content must be introduced through story, never as a hard sell (line 18). CTA presence is decided by content substance, not by which day it posts, consistent with how Braise Beauty BTS content already works. Recommended cadence: run these as the occasional documentary Saturday (1–2x/month), keeping most Saturdays outfit-led so the affiliate touchpoint isn't lost most weeks.
@@ -235,3 +383,4 @@ What's currently in rotation: linked in my bio."
 4. **Personal-brand privacy boundary applied (business-brief.md update):** identity vs. exposure — being a single mother is identity/context and stays in the narrative (already established in business-brief.md's narrative rules); the child specifically (face, name, daily life shown as the content itself) is protected and stays private. Script #4 had the child on camera as the visual point of the post — revised to show the system's payoff as her own stillness instead. Script #8's slide 7 named "my daughter" directly in on-screen text — revised to describe the bag's function without naming who it's for. Script #7 was reviewed against the same standard and needed no change — it never shows the child and uses "bedtime" only as brief context. The "Single mother building" content pillar itself doesn't need retiring under this standard: it can stay as a pillar about resilience and identity, as long as individual pieces keep applying this same distinction rather than showing the child or centering home-life mechanics.
 5. **"Document, don't teach" constraint applied (business-brief.md update):** audited all 8 scripts against the new binding rule that content should show her own process/decision, never prescriptive advice or a named repeatable method handed to the viewer. Script #1's caption originally enumerated "Three checks, every time" — a numbered method — and was flattened to plain first-person observation. The remaining 7 scripts already documented her own decisions in the moment without instructive framing and needed no change. Also checked against brand associations (no fashion-with-no-substance, no performative success signaling) and proof points (organisation, career growth, wisdom, energy — all shown through action, never stated as direct claims): no further changes needed.
 6. **Brand story framework applied (business-brief.md update — hero/mission/obstacle/guide/journey/higher purpose):** audited all 8 scripts against the new framework, checking whether the audience is positioned as the hero (room to see her own story), whether the obstacle (building without an easy start, invisible responsibilities, being underestimated) surfaces implicitly, whether Susu reads as guide rather than self-contained subject, and whether the higher purpose (any woman can build regardless of starting point) is a felt undertone rather than a stated line. Scripts #2, #3, #5, #7, and #8 already work as-is: their formulas ("Pass/Fail," "Still on the list," "school-morning test," "twenty minutes, every night") are inherently things the viewer can map onto her own life without being told to, and the obstacle comes through in situational detail (a real morning, a constrained twenty minutes, a system built "when it's mine") rather than as claims. Script #1 and #6 read as closed-loop by design — a personal filter and a zero-CTA product-standards BTS piece — and that's appropriate to their format; forcing a bridge into either would read as an inserted mission line, which the framework explicitly warns against. Script #4 was the one real gap: both the closing line and caption stayed entirely self-referential ("that's the whole system," "built it the same way I build everything else"), with no opening for the viewer to recognize her own experience of having had to build something out of necessity. Added one clause to the caption — "the kind of thing you only build once you've had to" — naming the obstacle as true of the system, not as a claim about the viewer, so recognition stays felt rather than declared. No other scripts required changes.
+7. **Worldview-statement technique applied (business-brief.md update — Week 2 build, Scripts #9–13):** every Week 2 script was written with its pillar's underlying worldview line held in mind while building the beats, then checked to confirm the line itself never appears in any spoken line, on-screen text, or caption — only traceable in retrospect, per "document, don't teach." Scripts #9, #10, #12, and #13 trace to the fashion line ("you don't need a new identity to become more polished — you need to start treating yourself like the woman you're becoming") through a rising standard shown in action across the week (Tuesday's filter gets harder — zero correction, not just morning preference; Wednesday's new addition has to survive a real disruption to earn its slot; Saturday tests endurance instead of stillness; Sunday cuts a liked-but-unworn piece without ceremony) — the throughline is never named as "growth" or "becoming," it's only visible as the bar itself moving. Script #11 traces to the beauty line ("building a beauty brand has changed how she thinks about what women actually need") through the choice to protect an early, silent hour specifically for Braise Beauty's real work — inferable from what she guards time for, never stated as a realization. Two format checks were made explicitly for this batch: (a) **Script #12 (Saturday outfit-led default) has no existing precedent** — confirmed against the calendar's own production-priority note that no prior script covers a non-documentary, outfit-led Saturday — and was built from Script #1's beat-rhythm and filter-voice scaffolding but fully re-beated around multi-location errand movement rather than a single workday departure, so it stands as a genuinely new structure, not a relabeled drop-in. (b) **Script #11's before-wake reversal** was checked against the same privacy standard already applied to Script #7: the child is never shown or named, and the one added beat (a brief glance toward the hallway) was judged to sit on the "identity, not exposure" side of the boundary, consistent with how "bedtime" functioned in Script #7 — carried through unchanged rather than tightened or loosened.
