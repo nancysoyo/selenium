@@ -1,41 +1,33 @@
 # Business Brief
 
 Creator:
-Susu (Ugomma Tess Awani) — @ma.milann (personal brand, 3,560 followers) / Braise Beauty (product brand, founding stage). Cape Town, South Africa. Automation engineer, single mother, works 9–5.
+Braise Beauty — founded by Susu (Ugomma Tess Awani), built and marketed publicly through her personal brand @ma.milann (Cape Town, South Africa, 3,560 followers).
 
 Audience:
-Ambitious women 25–40 elevating their style and their life. Secondary audience for Braise Beauty specifically: women with deeper skin tones looking for beauty products that celebrate their complexion.
+Primary: women with deeper skin tones looking for beauty products actually formulated for their undertone, not adapted from a lighter-skin default. Overlaps heavily with @ma.milann's existing audience — ambitious women 25–40 elevating their style and life.
 
 Core promise:
-I help ambitious women elevate their style and their life — because when you look good, you believe bigger. Delivered by documenting the real build of Braise Beauty and an intentionally engineered life, not by performing an aesthetic.
+Full-face beauty products that complement and celebrate deeper skin tones. Starting line: lip oil, liner, blush compact.
 
-Central identity: A woman engineering her own life.
+Tagline: Warm. Ember. You.
 
 Content goal:
-Turn consistent Instagram/TikTok content into two real revenue lines — affiliate income from fashion content now, and demand for Braise Beauty products as the brand launches — without diluting the elevated, documentary-style positioning already built.
+Turn the "building publicly" behind-the-scenes content already happening on @ma.milann into real pre-launch demand and early sales for Braise Beauty's founding product line — without turning @ma.milann into a storefront or breaking its documentary tone.
 
 Content concept:
-A weekly mix across five pillars — Documentary (Building Her, Cape Town 2026), Fashion & outfits (affiliate lives inside this pillar, never a separate promo lane), Mindset, Single mother building, and Braise Beauty (behind-the-scenes, built publicly). Trust and narrative come first; affiliate links and Braise Beauty are introduced through story, never as an ad or a hard sell.
+Braise Beauty content lives inside @ma.milann's existing Braise Beauty pillar (15% of the weekly mix) — documentary-style behind-the-scenes of building the brand: sourcing, shade-testing, packaging decisions, the founder's reasoning. Not polished product ads. Trust comes from watching the brand get built, the same way trust is built on the rest of the account.
 
 Offer path:
-Near-term: affiliate commission from fashion/styling content, already integrated into the existing weekly schedule (Tue outfit Reel, Wed styling carousel, Sat outfit/lifestyle Reel). Emerging anchor offer: Braise Beauty product line (lip oil, liner, blush compact) as it moves out of founding stage. Longer-term possibility: a paid guide/offer for the @ma.milann audience (e.g. capsule wardrobe, "elevate your style" system) once the documentary + fashion content has proven demand.
+Near-term: an early-access/waitlist mechanism as the lead magnet (e.g. a shade-match quiz or first-access list) — never a discount code. Anchor offer: the founding product line at launch. Longer-term: shade/product range expansion driven by waitlist demand signal.
 
 Voice:
-Elevated, refined, luxury-adjacent, honest. Applies an engineer's systems mindset to beauty, style, and life. Documentary and personal, never generic-motivational.
-
-Narrative rules:
-- I love my 9–5 AND I'm building something more.
-- I'm not escaping — I'm expanding.
-- Single motherhood didn't break me.
-- Never complain about or hint at escaping the job.
-- Never position as burned out or overwhelmed.
+Warm, elevated, refined, founder-led — never corporate, never "for everyone." Brand colours: Espresso brown #3D1408, Rust #8C3A18, Gold #C4952A, Cream #F5EDE0, Terracotta #A3481C, Ivory #FAF4EB, Sand #EDD4C4.
 
 Constraints:
-- No discount-code / haul / "finds under R300" language — reframe as "pieces I keep reaching for," "what's in rotation."
-- Link goes in bio/stories, mentioned once at most in caption — never "use my code" energy.
-- Always her face as the background — never plain colour slides or generic text carousels.
-- Centred text only, thin serif font, no border frames, thin divider lines only.
-- One affiliate profile only — no bulk tactics, no buying followers, no multiple accounts.
+- No discount-code / haul language — ever. Braise Beauty is premium, not a deal.
+- Her face and process on screen — never a plain product-shot ad feel.
+- Centred text, thin serif font, no border frames, thin divider lines only.
+- One platform, one profile — no multiple accounts, no bulk tactics.
+- Must connect back to the "engineering my own life" narrative — the brand is being built, not launched from nowhere.
 - Do not judge results before 90 days; saves and shares matter more than likes.
-- Fold affiliate tracking into the existing Sunday rest/review slot — never a separate "affiliate day."
-- No generic AI advice or AI-sounding output — everything must sound like her actual voice, not a template.
+- No generic AI-sounding copy — everything must sound like her actual founder voice.
