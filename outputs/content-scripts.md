@@ -1,5 +1,5 @@
 # Content Scripts — @ma.milann / Braise Beauty
-Production-ready scripts for 7 approved concepts. Written against `business-brief.md` and `outputs/final-video-brief.md` (binding on voice and hard constraints) and informed by 2025–2026 Reels/carousel retention research (hook pattern-interrupts, 2–4s beat pacing, sparse serif use, documentary restraint, save-triggered CTAs).
+Production-ready scripts for 13 concepts across the four thematic pillars — **Becoming, Building, Living, Leadership** (business-brief.md; replaces the earlier five topic-labeled pillars). Written against `business-brief.md` and `outputs/final-video-brief.md` (binding on voice and hard constraints) and informed by 2025–2026 Reels/carousel retention research (hook pattern-interrupts, 2–4s beat pacing, sparse serif use, documentary restraint, save-triggered CTAs).
 
 **Hard constraints carried through every script below:**
 No discount/haul language (brief line 34). One link max, in bio, mentioned once, only on Tue/Wed/Sat/Sun touchpoints (line 35, final brief line 76). Her face is the visual background at all times — never a plain slide (line 36). Centred thin serif text only, thin divider lines, no border frames (line 37). One affiliate profile (line 38). No results claimed before 90 days; saves/shares are the read signal, never likes (line 39). Affiliate mention lives only inside Sunday's recap — never a standalone affiliate day (line 40). Nothing generic-AI-sounding — every line is written to sound like Susu, not a template (line 41). Voice is elevated, refined, luxury-adjacent, honest, documentary, personal — never generic-motivational (line 24). Narrative rules ban any burnout/escape/struggle framing (lines 27–31). **Braise Beauty BTS content carries zero CTA, no exceptions.**
@@ -7,7 +7,7 @@ No discount/haul language (brief line 34). One link max, in bio, mentioned once,
 ---
 
 ## 1. "The Getting-Dressed Algorithm"
-**Slot:** Tuesday outfit Reel — Fashion × automation-engineer identity
+**Slot:** Tuesday outfit Reel — **Living** (style, with a Becoming undertone via the automation-engineer identity)
 **Runtime target:** 24 seconds
 
 ### Beat Breakdown
@@ -37,7 +37,7 @@ What I wore: linked in my bio."
 ---
 
 ## 2. "What Actually Survives a School-Morning Test" (CAROUSEL)
-**Slot:** Wednesday styling carousel — Fashion × single-mother building
+**Slot:** Wednesday styling carousel — **Living** (style, tested under a real constraint)
 **Format:** 8 slides, all with her face as the visual background per slide, centred thin serif text, thin divider line under the headline only, no border frames — design continuity via one shared thin divider element and consistent text placement bleeding slide to slide.
 
 **Hook (Slide 1):** *"These are the pieces that made it past a school morning. Nothing else gets to stay in rotation."*
@@ -63,7 +63,7 @@ What's currently on the list: linked in my bio."
 ---
 
 ## 3. "A Day I Engineered on Purpose — Cape Town, 2026"
-**Slot:** Saturday lifestyle Reel — Documentary × Mindset
+**Slot:** Saturday lifestyle Reel — **Becoming** (occasional documentary/mindset variant)
 **Runtime target:** 26 seconds
 
 ### Beat Breakdown
@@ -91,7 +91,7 @@ Not a trade-off — just two things that are both true, most days. Documenting t
 ---
 
 ## 4. "The System That Buys Me Time"
-**Slot:** Saturday lifestyle Reel (alternate concept) — single-mother building × automation-engineer identity, no fashion
+**Slot:** Saturday lifestyle Reel (alternate concept) — **Building** (occasional systems-engineer variant, no fashion)
 **Runtime target:** 22 seconds
 
 ### Beat Breakdown
@@ -122,7 +122,7 @@ Built it the same way I build everything else — one repeat task removed at a t
 ---
 
 ## 5. "The Weekly Audit"
-**Slot:** Sunday review Reel — Fashion × Mindset
+**Slot:** Sunday review Reel — **Becoming** (fashion as the object of the weekly self-audit)
 **Runtime target:** 25 seconds
 
 ### Beat Breakdown
@@ -146,7 +146,7 @@ Built it the same way I build everything else — one repeat task removed at a t
 ---
 
 ## 6. "What I Won't Buy Again — And Why I'm Building Something Different"
-**Slot:** Braise Beauty BTS Reel — **ZERO CTA**
+**Slot:** Braise Beauty BTS Reel — **Building** — **ZERO CTA**
 **Runtime target:** 22 seconds
 
 ### Beat Breakdown
@@ -172,7 +172,7 @@ No name, no comparison. Just documenting the real reasons, as they come up."
 ---
 
 ## 7. "Building This Around a Bedtime"
-**Slot:** Braise Beauty BTS Reel — **ZERO CTA**
+**Slot:** Braise Beauty BTS Reel — **Building** — **ZERO CTA**
 **Runtime target:** 20 seconds
 
 ### Beat Breakdown
@@ -200,7 +200,7 @@ Documenting Braise Beauty as it's really built, in the time it's really built in
 ---
 
 ## 8. "The Pieces That Keep Making the List" (CAROUSEL)
-**Slot:** Wednesday styling carousel — Fashion × affiliate-forward alternate (used in weeks she's spotlighting several pieces at once, instead of the single decision-tree breakdown in Script #2)
+**Slot:** Wednesday styling carousel — **Living** (affiliate-forward alternate, used in weeks she's spotlighting several pieces at once, instead of the single decision-tree breakdown in Script #2)
 **Format:** 8 slides, all with her face as the visual background per slide, centred thin serif text, thin divider line under the headline only, no border frames — same design system as Script #2, so the two Wednesday formats feel like one continuous visual language rather than two different accounts.
 
 **Hook (Slide 1):** *"Same pieces, different week — this is what's still earning space."*
@@ -228,7 +228,7 @@ What's currently in rotation: linked in my bio."
 ---
 
 ## 9. "The Zero-Adjustment Test"
-**Slot:** Tuesday outfit Reel — Fashion × automation-engineer identity, Week 2 variant of Script #1
+**Slot:** Tuesday outfit Reel — **Living** (with a Becoming undertone), Week 2 variant of Script #1
 **Runtime target:** 24 seconds
 
 ### Beat Breakdown
@@ -258,7 +258,7 @@ What passed: linked in my bio."
 ---
 
 ## 10. "Same List, One New Name" (CAROUSEL)
-**Slot:** Wednesday styling carousel — Fashion × single-mother building, Week 2 variant of Script #8
+**Slot:** Wednesday styling carousel — **Living**, Week 2 variant of Script #8
 **Format:** 8 slides, all with her face as the visual background per slide, centred thin serif text, thin divider line under the headline only, no border frames — same design system as Scripts #2 and #8.
 
 **Hook (Slide 1):** *"Same list, one new name on it. It only got there by surviving a day that wasn't supposed to go sideways."*
@@ -286,7 +286,7 @@ What's currently in rotation: linked in my bio."
 ---
 
 ## 11. "Before Anyone Else Is Up"
-**Slot:** Braise Beauty BTS Reel — **ZERO CTA** — Week 2 time/ownership variant, reversed from Script #7
+**Slot:** Braise Beauty BTS Reel — **Building** — **ZERO CTA** — Week 2 time/ownership variant, reversed from Script #7
 **Runtime target:** 20 seconds
 
 ### Beat Breakdown
@@ -316,7 +316,7 @@ Documenting Braise Beauty as it's actually built, in whatever pocket of time is 
 ---
 
 ## 12. "The Saturday Test" (outfit-led default, new template)
-**Slot:** Saturday outfit/lifestyle Reel — Fashion × errand-day, the default Saturday format (distinct from the occasional documentary/mindset Saturday of Script #3 and the occasional systems-engineer Saturday of Script #4)
+**Slot:** Saturday outfit/lifestyle Reel — **Living** (errand-day), the default Saturday format (distinct from the occasional Becoming-variant documentary/mindset Saturday of Script #3 and the occasional Building-variant systems-engineer Saturday of Script #4)
 **Runtime target:** 26 seconds
 
 **Build note:** no existing script covers a non-documentary, outfit-led Saturday. This was built from the Getting-Dressed Algorithm scaffolding (Script #1's beat rhythm and filter-language voice) but fully re-beated around sustained daytime movement across multiple errand locations rather than a single workday departure — a genuinely new structure, not a drop-in.
@@ -348,7 +348,7 @@ What I wore: linked in my bio."
 ---
 
 ## 13. "This One Didn't Make It"
-**Slot:** Sunday review Reel — Fashion × Mindset, Week 2 variant of Script #5
+**Slot:** Sunday review Reel — **Becoming**, Week 2 variant of Script #5
 **Runtime target:** 25 seconds
 
 ### Beat Breakdown
@@ -384,3 +384,4 @@ If you want to see what's still in rotation, it's linked in my bio."
 5. **"Document, don't teach" constraint applied (business-brief.md update):** audited all 8 scripts against the new binding rule that content should show her own process/decision, never prescriptive advice or a named repeatable method handed to the viewer. Script #1's caption originally enumerated "Three checks, every time" — a numbered method — and was flattened to plain first-person observation. The remaining 7 scripts already documented her own decisions in the moment without instructive framing and needed no change. Also checked against brand associations (no fashion-with-no-substance, no performative success signaling) and proof points (organisation, career growth, wisdom, energy — all shown through action, never stated as direct claims): no further changes needed.
 6. **Brand story framework applied (business-brief.md update — hero/mission/obstacle/guide/journey/higher purpose):** audited all 8 scripts against the new framework, checking whether the audience is positioned as the hero (room to see her own story), whether the obstacle (building without an easy start, invisible responsibilities, being underestimated) surfaces implicitly, whether Susu reads as guide rather than self-contained subject, and whether the higher purpose (any woman can build regardless of starting point) is a felt undertone rather than a stated line. Scripts #2, #3, #5, #7, and #8 already work as-is: their formulas ("Pass/Fail," "Still on the list," "school-morning test," "twenty minutes, every night") are inherently things the viewer can map onto her own life without being told to, and the obstacle comes through in situational detail (a real morning, a constrained twenty minutes, a system built "when it's mine") rather than as claims. Script #1 and #6 read as closed-loop by design — a personal filter and a zero-CTA product-standards BTS piece — and that's appropriate to their format; forcing a bridge into either would read as an inserted mission line, which the framework explicitly warns against. Script #4 was the one real gap: both the closing line and caption stayed entirely self-referential ("that's the whole system," "built it the same way I build everything else"), with no opening for the viewer to recognize her own experience of having had to build something out of necessity. Added one clause to the caption — "the kind of thing you only build once you've had to" — naming the obstacle as true of the system, not as a claim about the viewer, so recognition stays felt rather than declared. No other scripts required changes.
 7. **Worldview-statement technique applied (business-brief.md update — Week 2 build, Scripts #9–13):** every Week 2 script was written with its pillar's underlying worldview line held in mind while building the beats, then checked to confirm the line itself never appears in any spoken line, on-screen text, or caption — only traceable in retrospect, per "document, don't teach." Scripts #9, #10, #12, and #13 trace to the fashion line ("you don't need a new identity to become more polished — you need to start treating yourself like the woman you're becoming") through a rising standard shown in action across the week (Tuesday's filter gets harder — zero correction, not just morning preference; Wednesday's new addition has to survive a real disruption to earn its slot; Saturday tests endurance instead of stillness; Sunday cuts a liked-but-unworn piece without ceremony) — the throughline is never named as "growth" or "becoming," it's only visible as the bar itself moving. Script #11 traces to the beauty line ("building a beauty brand has changed how she thinks about what women actually need") through the choice to protect an early, silent hour specifically for Braise Beauty's real work — inferable from what she guards time for, never stated as a realization. Two format checks were made explicitly for this batch: (a) **Script #12 (Saturday outfit-led default) has no existing precedent** — confirmed against the calendar's own production-priority note that no prior script covers a non-documentary, outfit-led Saturday — and was built from Script #1's beat-rhythm and filter-voice scaffolding but fully re-beated around multi-location errand movement rather than a single workday departure, so it stands as a genuinely new structure, not a relabeled drop-in. (b) **Script #11's before-wake reversal** was checked against the same privacy standard already applied to Script #7: the child is never shown or named, and the one added beat (a brief glance toward the hallway) was judged to sit on the "identity, not exposure" side of the boundary, consistent with how "bedtime" functioned in Script #7 — carried through unchanged rather than tightened or loosened.
+8. **Pillar relabeling (business-brief.md update — four thematic pillars replace the five topic-labeled ones):** every script's "Slot" line was relabeled from the old pillars (Documentary, Fashion & outfits, Mindset, Single mother building) to the new four (Becoming, Building, Living, Leadership), per the mapping in business-brief.md's Content concept section: Tue/Wed/Sat outfit content = Living, Braise Beauty BTS = Building, occasional documentary/mindset Saturday = Becoming, occasional systems-engineer Saturday = Building, Sunday audit = Becoming. This is a labeling-only change — no beat, caption, or hook was altered, since the underlying content already fit the new structure without rewriting.

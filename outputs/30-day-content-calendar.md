@@ -1,14 +1,16 @@
 # 30-Day Content Calendar — @ma.milann / Braise Beauty
 
-Lightweight concept calendar, not full production scripts (those exist in full for Week 1 via `outputs/content-scripts.md`, and get built out week by week from here). Grounded in `business-brief.md` — checked against document-don't-teach, the brand story framework, the child-privacy boundary, and the signature-opening rule.
+Lightweight concept calendar, not full production scripts (Weeks 1–2 now exist in full via `outputs/content-scripts.md`, scripts #1–13; Weeks 3–5 get built out week by week as performance data comes in). Grounded in `business-brief.md` — checked against document-don't-teach, the brand story framework, the child-privacy boundary, the signature-opening rule, and this is also the 30-day mission window: the goal is signal (what she believes strongly enough to repeat for years), not volume or virality — see business-brief.md's "30-day mission" and "30-day rule" (no repositioning regardless of individual post performance).
 
 **Schedule:** 5-day content week — Tuesday (outfit Reel), Wednesday (styling carousel), Thursday (Braise Beauty BTS — newly assigned slot), Saturday (outfit/lifestyle Reel, alternates documentary/mindset vs. outfit-led), Sunday (Weekly Audit). Monday and Friday are rest days.
 
-**Format key:** Getting-Dressed Algorithm lens (Tue) · Pass/Fail carousel and Still-on-the-list carousel (Wed, alternating) · Braise Beauty BTS (Thu, zero CTA always) · documentary/mindset Saturday and systems-engineer Saturday (occasional, 1–2x/month) vs. outfit-led Saturday (default) · Weekly Audit (Sun).
+**Pillar key (business-brief.md — four thematic pillars, replacing the earlier five topic-labeled ones):** Tue/Wed/Sat outfit content = **Living** · Braise Beauty BTS (Thu) = **Building** · occasional documentary/mindset Saturday = **Becoming** · occasional systems-engineer Saturday = **Building** · Sunday audit = **Becoming**. The recurring series "While I'm Becoming Her" (business-brief.md) lives inside the Saturday/Sunday alternation roughly 1–2x/month once introduced — not scheduled into a specific week below yet.
+
+**Format key:** Getting-Dressed Algorithm lens (Tue, Living) · Pass/Fail carousel and Still-on-the-list carousel (Wed, Living, alternating) · Braise Beauty BTS (Thu, Building, zero CTA always) · documentary/mindset Saturday (Becoming) and systems-engineer Saturday (Building), both occasional, 1–2x/month, vs. outfit-led Saturday (Living, default) · Weekly Audit (Sun, Becoming).
 
 ---
 
-## Week 1 (existing scripts — use as-built, no new writing needed)
+## Week 1 (Living/Building/Becoming — existing scripts #1–8, use as-built)
 
 | Day | Format | Angle | Hook |
 |---|---|---|---|
@@ -20,7 +22,7 @@ Lightweight concept calendar, not full production scripts (those exist in full f
 
 ---
 
-## Week 2
+## Week 2 (scripts #9–13 now written in full — see `content-scripts.md`)
 
 | Day | Format | Angle | Hook |
 |---|---|---|---|
@@ -69,10 +71,6 @@ Lightweight concept calendar, not full production scripts (those exist in full f
 
 **Week 1 — ready now.** All five slots map directly onto existing, approved scripts in `content-scripts.md` (#1 Tuesday, #2 Wednesday, #6 Thursday, #3 Saturday, #5 Sunday). Film and post as-is.
 
-**Week 2 — build next, in this order:**
-1. Wednesday's Still-on-the-list carousel — script #8 is a near-drop-in fit; only the "disrupted commute" detail needs writing in.
-2. Thursday's Braise Beauty BTS (before-wake variant) — script #7 is the structural template; flip the beat order and write in the new detail.
-3. Saturday's outfit-led default — genuinely new, no existing script covers a non-documentary Saturday yet; build from the Getting-Dressed Algorithm template, re-beated around errand/movement footage.
-4. Tuesday and Sunday — lowest risk, reuse the existing formula almost exactly.
+**Week 2 — done.** Scripts #9–13 are written in full in `content-scripts.md` (Zero-Adjustment Test, Same List One New Name, Before Anyone Else Is Up, The Saturday Test, This One Didn't Make It), each checked against the worldview-statement technique so the underlying thesis is traceable but never stated on camera.
 
-**Weeks 3–5 — hold as concept-only** until Weeks 1–2 are filmed, posted, and read against saves/shares (per the 90-day, saves-over-likes rule). Early performance should inform which specific angles get built out with more or less screen time.
+**Weeks 3–5 — hold as concept-only** until Weeks 1–2 are filmed, posted, and read against the 30-day mission's tracking metric (saves → shares → meaningful comments → DMs → returning people, per business-brief.md — not followers or likes). Per the 30-day rule, don't reposition the four pillars or this thesis based on any single post's performance during this window; use the full 30 days of evidence before changing direction. Early performance should inform which specific Week 3–5 angles get built out with more or less screen time, and whether/when to introduce the "While I'm Becoming Her" series into the rotation.
